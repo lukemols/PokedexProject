@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>afbd5a61-7e17-4d02-b126-2997c680dd50</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>PokedexProject</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\EvolutionClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\LocationClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\PokemonClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\PokemonPlaceClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\TipoClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Evolution.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Location.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Pokemon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\PokemonPlace.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Tipo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\FileClass\Dex.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\FileManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\ProgramException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\ProgramManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\Evoluzioni.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\Location.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\Places.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\Pokemon.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\RegionalDex.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Files\IT\TipiPokemon.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
