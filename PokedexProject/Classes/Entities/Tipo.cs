@@ -8,19 +8,28 @@ namespace PokedexProject
 {
     public class Tipo
     {
-        public int numero;
-        public string forma;
-        public string tipo1;
-        public string tipo2;
-        public int dagen;
+        int pokemonNumber;
+        public int PokemonNumber { get { return pokemonNumber; } }
+
+        public string form;
+        public string Form { get { return form; } }
+
+        string type1;
+        public string Type1 { get { return type1; } }
+
+        string type2;
+        public string Type2 { get { return type2; } }
+
+        int fromGeneration;
+        public int FromGeneration { get { return fromGeneration; } }
 
         public Tipo()
         {
-            numero = 0;
-            dagen = 0;
-            forma = "";
-            tipo1 = "";
-            tipo2 = "";
+            pokemonNumber = 0;
+            fromGeneration = 0;
+            form = "";
+            type1 = "";
+            type2 = "";
         }
 
         public Tipo(string s)
@@ -31,11 +40,11 @@ namespace PokedexProject
                 if (arr[0] == "#type")
                 {   //Esempio:
                     //#type|3||Erba|Veleno|1|
-                    numero = System.Convert.ToInt32(arr[1]);
-                    forma = arr[2];
-                    tipo1 = arr[3];
-                    tipo2 = arr[4];
-                    dagen = System.Convert.ToInt32(arr[5]);
+                    pokemonNumber = System.Convert.ToInt32(arr[1]);
+                    form = arr[2];
+                    type1 = arr[3];
+                    type2 = arr[4];
+                    fromGeneration = System.Convert.ToInt32(arr[5]);
                 }
                 else
                     throw new ProgramException("Errore nella stringa del file.");
@@ -48,8 +57,8 @@ namespace PokedexProject
         public override string ToString()
         {
             string s;
-            s = "( " + numero + ", '" + forma + "', '" + tipo1 + "', '" + tipo2 + "', " + dagen + ")," + Environment.NewLine;
-            s = "#type|" + numero + "|" + forma + "|" + tipo1 + "|" + tipo2 + "|" + dagen + "|" + Environment.NewLine;
+            s = "( " + pokemonNumber + ", '" + form + "', '" + type1 + "', '" + type2 + "', " + fromGeneration + ")," + Environment.NewLine;
+            s = "#type|" + pokemonNumber + "|" + form + "|" + type1 + "|" + type2 + "|" + fromGeneration + "|" + Environment.NewLine;
             return s;
         }
     }

@@ -1,12 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.IO;
 
 namespace PokedexProject
@@ -16,6 +9,7 @@ namespace PokedexProject
         public bool getOnStart;
         string optionPath;
         string filesPath;
+
         public FileManager()
         {
             string s = Application.StartupPath;

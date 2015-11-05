@@ -8,9 +8,14 @@ namespace PokedexProject
 {
     class Location
     {
-        public string region;
-        public string name;
-        public string description;
+        string region;
+        public string Region { get { return region; } }
+
+        string name;
+        public string Name { get { return name; } }
+
+        string description;
+        public string Description { get { return description; } }
 
         public Location()
         {

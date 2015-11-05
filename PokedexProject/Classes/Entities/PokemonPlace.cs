@@ -9,27 +9,44 @@ namespace PokedexProject
     class PokemonPlace
     {
         //Numero, Luogo, ParteDelLuogo, Regione, Gioco, Modo, Livello, Orario, Percentuale
-        public int numeroPk;
-        public string forma;
-        public string nomeLuogo;
-        public string parteLuogo;
-        public string regione;
-        public string gioco;
-        public string modo; //starter, amo, erba, scambio ecc
-        public string livello;
-        public string percentuale;
+        int pokemonNumber;
+        public int PokemonNumber { get { return pokemonNumber; } }
+
+        string form;
+        public string Form { get { return form; } }
+
+        string locationName;
+        public string LocationName { get { return locationName; } }
+
+        string locationPart;
+        public string LocationPart { get { return locationPart; } }
+
+        string region;
+        public string Region { get { return region; } }
+
+        string game;
+        public string Game { get { return game; } }
+
+        string mode; //starter, amo, erba, scambio ecc
+        public string Mode { get { return mode; } }
+
+        string level;
+        public string Level { get { return level; } }
+
+        string probability;
+        public string Probability { get { return probability; } }
 
         public PokemonPlace()
         {
-            numeroPk = 0;
-            forma = "Normale";
-            nomeLuogo = "";
-            parteLuogo = "";
-            regione = "";
-            gioco = "";
-            modo = "";
-            livello = "";
-            percentuale = "";
+            pokemonNumber = 0;
+            form = "Normale";
+            locationName = "";
+            locationPart = "";
+            region = "";
+            game = "";
+            mode = "";
+            level = "";
+            probability = "";
         }
 
         public PokemonPlace(string s)
@@ -39,15 +56,15 @@ namespace PokedexProject
             {
                 if (arr[0] == "#placePk")
                 {
-                    regione = arr[1];
-                    nomeLuogo = arr[2];
-                    parteLuogo = arr[3];
-                    gioco = arr[4];
-                    numeroPk = System.Convert.ToInt32(arr[5]);
-                    forma = arr[6];
-                    modo = arr[7];
-                    livello = arr[8];
-                    percentuale = arr[9];
+                    region = arr[1];
+                    locationName = arr[2];
+                    locationPart = arr[3];
+                    game = arr[4];
+                    pokemonNumber = System.Convert.ToInt32(arr[5]);
+                    form = arr[6];
+                    mode = arr[7];
+                    level = arr[8];
+                    probability = arr[9];
                 }
                 else
                     throw new ProgramException("Errore nella stringa del file.");
@@ -66,13 +83,13 @@ namespace PokedexProject
             else
                 s += "a " + nomeLuogo;
 
-            if (livello.Contains(',') || livello.Contains('-'))
-                s += " ai livelli " + livello;
+            if (level.Contains(',') || level.Contains('-'))
+                s += " ai livelli " + level;
             else
-                s += " al livello " + livello;
+                s += " al livello " + level;
 
             if (parteLuogo.Contains("Acqua"))
-                s += " in " + parteLuogo + " con " + modo;
+                s += " in " + parteLuogo + " con " + mode;
             else if (parteLuogo.Contains("Laboratorio"))
                 s += " nel " + parteLuogo;
             else if (parteLuogo.Contains("Grotta"))
@@ -80,12 +97,12 @@ namespace PokedexProject
             else if (parteLuogo != "")
                 s += " nella parte " + parteLuogo;
 
-            if (modo.Contains("Erba"))
+            if (mode.Contains("Erba"))
                 s += " nell'erba";
-            else if (modo.Contains("Fiori"))
-                s += " nei " + modo;
+            else if (mode.Contains("Fiori"))
+                s += " nei " + mode;
             else if (!parteLuogo.Contains("Acqua"))
-                s += " in " + modo;
+                s += " in " + mode;
 
            
             if (forma == "" || forma == "Normale")
@@ -93,7 +110,7 @@ namespace PokedexProject
             else
                 s += ", nella forma " + forma;
 
-            s += " con probabilità " + percentuale;
+            s += " con probabilità " + probability;
 
             return s;
         }

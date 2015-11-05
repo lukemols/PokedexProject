@@ -8,19 +8,31 @@ namespace PokedexProject
 {
     public class Pokemon
     {
-        public int numero;
-        public string nome;
-        public float peso;
-        public float altezza;
-        public string forma;
+        int number;
+        public int Number { get { return number; } }
+
+        int regionalNumber;
+        public int RegionalNumber { get { return regionalNumber; } }
+
+        string name;
+        public string Name { get { return name; } }
+
+        float weight;
+        public float Weight { get { return weight; } }
+
+        float height;
+        public float Height { get { return height; } }
+
+        string form;
+        public string Form { get { return form; } }
 
         public Pokemon()
         {
-            numero = 0;
-            nome = "";
-            peso = 0.0f;
-            altezza = 0.0f;
-            forma = "Normale";
+            number = 0;
+            name = "";
+            weight = 0.0f;
+            height = 0.0f;
+            form = "Normale";
         }
 
         public Pokemon(string s)
@@ -31,11 +43,11 @@ namespace PokedexProject
                 if (arr[0] == "#poke")
                 {   //Esempio:
                     //0 #poke|1 6|2 Charizard|3 1,7|4 110,5|5 MX|
-                    numero = System.Convert.ToInt32(arr[1]);
-                    nome = arr[2];
-                    altezza = System.Convert.ToSingle(arr[3]);
-                    peso = System.Convert.ToSingle(arr[4]);
-                    forma = arr[5];
+                    number = System.Convert.ToInt32(arr[1]);
+                    name = arr[2];
+                    height = System.Convert.ToSingle(arr[3]);
+                    weight = System.Convert.ToSingle(arr[4]);
+                    form = arr[5];
                 }
                 else
                     throw new ProgramException("Errore nella stringa del file.");

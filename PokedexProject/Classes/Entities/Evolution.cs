@@ -8,16 +8,21 @@ namespace PokedexProject
 {
     public class Evolution
     {
-        public int numero1;
-        public int numero2;
-        public string modo;
+        int lower;
+        public int Lower { get { return lower; } }
+
+        int higher;
+        public int Higher { get { return higher;} }
+
+        string trigger;
+        public string Trigger { get { return trigger; } }
 
 
         public Evolution()
         {
-            numero1 = 0;
-            numero2 = 0;
-            modo = "";
+            lower = 0;
+            higher = 0;
+            trigger = "";
         }
 
         public Evolution(string s)
@@ -28,9 +33,9 @@ namespace PokedexProject
                 if (arr[0] == "#evo")
                 {   //Esempio:
                     //#evo|616|617|Scambio per Karrablast|
-                    numero1 = System.Convert.ToInt32(arr[1]);
-                    numero2 = System.Convert.ToInt32(arr[2]);
-                    modo = arr[3];
+                    lower = System.Convert.ToInt32(arr[1]);
+                    higher = System.Convert.ToInt32(arr[2]);
+                    trigger = arr[3];
                 }
                 else
                     throw new ProgramException("Errore nella stringa del file.");
