@@ -12,13 +12,13 @@ namespace PokedexProject
         static public Dex ActualDex { get { return actualDex; } }
 
         static bool dexActive;
-        static bool DexActive { get { return dexActive; } }
+        static public bool DexActive { get { return dexActive; } }
 
         static bool regionActive;
-        static bool RegionActive { get { return regionActive; } }
+        static public bool RegionActive { get { return regionActive; } }
 
         static bool isModified;
-        static bool IsModified { get { return isModified; } }
+        static public bool IsModified { get { return isModified; } }
 
         static ObservableCollection<Pokemon> pokemonList;
 

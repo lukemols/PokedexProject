@@ -30,10 +30,13 @@ namespace PokedexProject
                             LocationClassManager.GetLocationList(lines);
                             break;
                         case "Places.data":
+                            PokemonPlaceClassManager.GetPlaceList(lines);
                             break;
                         case "Pokemon.data":
+                            PokemonClassManager.GetPokemonList(lines);
                             break;
                         case "PokemonTypes.data":
+                            TypeClassManager.GetTipoList(lines);
                             break;
                         case "RegionalDex.data":
                             break;

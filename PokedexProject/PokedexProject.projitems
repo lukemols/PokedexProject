@@ -13,14 +13,15 @@
     <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\LocationClassManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\PokemonClassManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\PokemonPlaceClassManager.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\TipoClassManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\ClassManagers\TypeClassManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Evolution.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Location.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Pokemon.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\PokemonPlace.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Tipo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entities\Type.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\FileClass\Dex.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\FileManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\GameClass.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\GenerationClass.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\ProgramException.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Classes\Program\ProgramManager.cs" />

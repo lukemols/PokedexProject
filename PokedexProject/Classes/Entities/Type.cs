@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    public class Tipo
+    public class Type
     {
         int pokemonNumber;
         public int PokemonNumber { get { return pokemonNumber; } }
@@ -23,7 +23,7 @@ namespace PokedexProject
         int fromGeneration;
         public int FromGeneration { get { return fromGeneration; } }
 
-        public Tipo()
+        public Type()
         {
             pokemonNumber = 0;
             fromGeneration = 0;
@@ -32,7 +32,7 @@ namespace PokedexProject
             type2 = "";
         }
 
-        public Tipo(string s)
+        public Type(string s)
         {
             string[] arr = s.Split('|');
             try

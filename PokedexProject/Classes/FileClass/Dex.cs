@@ -9,27 +9,13 @@ namespace PokedexProject
     class Dex
     {
         public enum pokeState { NOTVIEWED = 0, VIEWED = 1, CAPTURED = 2 };
-        private string game;
+
+        private GameClass.Game game;
         public string Game
         {
-            get
-            {
-                return game;
-            }
-            set
-            {
-                string[] games = {"Rosso", "Blu", "Giallo", "Oro", "Argento", "Cristallo", "Rubino", "Zaffiro", "Smeraldo", "Rosso Fuoco", "Verde Foglia", 
-                                  "Diamante", "Perla", "Platino", "Heart Gold", "Soul Silver", "Bianco", "Nero", "Bianco 2", "Nero 2", "X", "Y", "Rubino Omega", "Zaffiro Alpha" };
-                foreach(string s in games)
-                {
-                    if(value == s)
-                    {
-                        game = s;
-                        break;
-                    }
-                }
-            }
+            get { return GameClass.GetGameName(game); }
         }
+
         private int generation;
         public int Generation { get { return generation; } set { if (value > 0 && value < GenerationClass.GenerationLimit.Length) generation = value; } }
 
