@@ -6,61 +6,43 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    class LocationClassManager
+    static class LocationClassManager
     {
-        
-        ProgramManager pm;
-        FileManager fm;
         private static List<Location> listaLocation;
-        public List<Location> ListaLocation { get { return listaLocation; } }
-             
+        public static List<Location> ListaLocation { get { return listaLocation; } }
 
-        public LocationClassManager()
+        /// <summary>
+        /// Metodo che carica la lista dei luoghi a partire da una lista di stringhe formattata
+        /// </summary>
+        /// <param name="lines">Lista di stringhe contenenti i luoghi</param>
+        public static void GetLocationList(List<string> lines)
         {
-            fm = new FileManager();
-            pm = new ProgramManager();
-            if (listaLocation == null)
-            {
-                GetLocationList();
-            }
-        }
-
-        public void GetLocationList()
-        {
-            List<string> lines;
             listaLocation = new List<Location>();
-
-            try
-            {
-                lines = fm.ReadFile(@"Location.data");
-            }
-            catch
-            {
-                return;
-            }
-
+            
             while (lines.Count > 0)
             {
                 try
                 {
                     Location l = new Location(lines[0]);
                     listaLocation.Add(l);
-                    lines.RemoveAt(0);
                 }
-                catch (ProgramException)
-                {
-                    lines.RemoveAt(0);
-                    continue;
-                }
+                catch (ProgramException) { }
+
+                lines.RemoveAt(0);
             }
         }
 
-        public List<Location> GetRegionalLocation(string region)
+        /// <summary>
+        /// Metodo che ritorna una lista di luoghi appartenenti ad una regione
+        /// </summary>
+        /// <param name="region">Regione da cercare</param>
+        /// <returns>Lista dei luoghi</returns>
+        public static List<Location> GetRegionalLocation(string region)
         {
             List<Location> locs = new List<Location>();
             foreach (Location l in listaLocation)
             {
-                if (l.region == region)
+                if (l.Region == region)
                     locs.Add(l);
             }
             return locs;

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.IO;
 
@@ -19,12 +20,17 @@ namespace PokedexProject
         static bool isModified;
         static bool IsModified { get { return isModified; } }
 
-        static List<Pokemon> pokemonList;
+        static ObservableCollection<Pokemon> pokemonList;
 
         static void Initialize(string dexPath)
         {
             string filePath = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\";
-            FileManager.ReadResourceFiles(filePath);
+            List<string> paths = new List<string>
+            {
+                filePath + "Evolutions.data", filePath + "Locations.data", filePath + "Places.data",
+                filePath + "Pokemon.data", filePath + "PokemonTypes.data", filePath + "RegionalDex.data"
+            };
+            FileManager.ReadResourceFiles(paths);
             if(dexPath != "")
             {
                 FileManager.GetDex();
@@ -38,13 +44,14 @@ namespace PokedexProject
         static public void NewDex(string path)
         {
             actualDex = new Dex(path);
-            actualDex.openDex();
+            actualDex.OpenDex();
             regionActive = false;
             isModified = false;
             dexActive = true;
         }
 
         #region Operazioni sulla lista dei Pokémon
+
         /// <summary>
         /// Metodo che ritorna la lista da mostrare a partire dalla stringa in input
         /// </summary>
@@ -63,7 +70,6 @@ namespace PokedexProject
                 
 
                 int last = 0;
-                int count = 0;
 
                 foreach (Pokemon p in pokemonList)
                 {

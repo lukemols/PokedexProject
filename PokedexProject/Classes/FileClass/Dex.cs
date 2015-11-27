@@ -31,22 +31,14 @@ namespace PokedexProject
             }
         }
         private int generation;
-        public int Generation
-        { 
-            get
-            { 
-                return generation;
-            } 
-            set
-            { 
-                if (value < 7 && value > 0) 
-                generation = value;
-            }
-        }
+        public int Generation { get { return generation; } set { if (value > 0 && value < GenerationClass.GenerationLimit.Length) generation = value; } }
+
         private string path;
         public string Path { get { return path; } set { path = value; } }
+
         private int pokenum;
         public int Pokenum { get { return pokenum; } }
+
         private List<pokeState> pokedex;
         public List<pokeState> Pokedex { get { return pokedex; } }
 
@@ -66,27 +58,7 @@ namespace PokedexProject
 
         public void createDex()
         {
-            switch(generation)
-            {
-                case 1:
-                    pokenum = 151;
-                    break;
-                case 2:
-                    pokenum = 251;
-                    break;
-                case 3:
-                    pokenum = 386;
-                    break;
-                case 4:
-                    pokenum = 493;
-                    break;
-                case 5:
-                    pokenum = 649;
-                    break;
-                case 6:
-                    pokenum = 721;
-                    break;
-            }
+            pokenum = GenerationClass.GenerationLimit[generation];
             pokedex = new List<pokeState>();
             for (int i = 0; i < pokenum; i++)
             {
@@ -94,10 +66,9 @@ namespace PokedexProject
             }
         }
 
-        public void openDex()
+        public void OpenDex()
         {
-            FileManager fm = new FileManager();
-            pokedex = fm.getDex(path, this);
+            pokedex = FileManager.GetDex(path, this);
             pokenum = pokedex.Count;
         }
 

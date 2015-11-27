@@ -28,6 +28,7 @@ namespace PokedexProject10
             this.InitializeComponent();
 
             string path = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\Evoluzioni.data";
+            path = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Sprites\6Gen\xy\1.png";
 
             if (File.Exists(path))
                 Tblock.Text = "File trovato";
