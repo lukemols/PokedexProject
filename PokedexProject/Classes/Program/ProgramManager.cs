@@ -8,9 +8,6 @@ namespace PokedexProject
 {
     static class ProgramManager
     {
-        static Dex actualDex;
-        static public Dex ActualDex { get { return actualDex; } }
-
         static bool dexActive;
         static public bool DexActive { get { return dexActive; } }
 
@@ -28,12 +25,12 @@ namespace PokedexProject
             List<string> paths = new List<string>
             {
                 filePath + "Evolutions.data", filePath + "Locations.data", filePath + "Places.data",
-                filePath + "Pokemon.data", filePath + "PokemonTypes.data", filePath + "RegionalDex.data"
+                filePath + "Pokemon.data", filePath + "PokemonTypes.data"
             };
             FileManager.ReadResourceFiles(paths);
             if(dexPath != "")
             {
-                FileManager.GetDex();
+                NewDex(dexPath);
             }
         }
 
@@ -43,8 +40,7 @@ namespace PokedexProject
         /// <param name="path">Percorso del file da aprire</param>
         static public void NewDex(string path)
         {
-            actualDex = new Dex(path);
-            actualDex.OpenDex();
+            Dex.LoadDex(path);
             regionActive = false;
             isModified = false;
             dexActive = true;

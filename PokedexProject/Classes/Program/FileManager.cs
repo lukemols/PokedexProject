@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
+using PokedexProject;
 
 namespace PokedexProject
 {
@@ -45,9 +47,53 @@ namespace PokedexProject
             }
         }
 
-        static public async void GetDex()
+        static public async Task<List<Dex.PokeState>> GetDexAsync(string path)
         {
+            if (!File.Exists(path))
+                throw new FileNotFoundException();
 
+            List<Dex.PokeState> states = new List<Dex.PokeState>();
+
+            StreamReader sr = new StreamReader(path);
+            string line;
+
+            while ((line = await sr.ReadLineAsync()) != null)
+            {
+                if (line == null || line[0] == '*')
+                    continue;
+
+                if (line.Contains("#INFO"))
+                {
+                    string[] infos = line.Split('|');
+                    Dex.Generation = System.Convert.ToInt32(infos[1]);
+                    Dex.Game = infos[2];
+                    continue;
+                }
+
+                if (line.Contains("#VERSION"))
+                {
+                    string[] version = line.Split('|');
+                }
+
+                if (line.Contains("#Pk"))
+                {
+                    string[] poke = line.Split('|');
+                    switch (poke[2])
+                    {
+                        case "CAPTURED":
+                            states.Add(Dex.PokeState.CAPTURED);
+                            break;
+                        case "VIEWED":
+                            states.Add(Dex.PokeState.VIEWED);
+                            break;
+                        default:
+                            // case "NOTVIEWED":
+                            states.Add(Dex.PokeState.NOTVIEWED);
+                            break;
+                    }
+                }
+            }
+            return states;
         }
     }
 }

@@ -78,37 +78,37 @@ namespace PokedexProject
         public override string ToString()
         {
             string s = "";
-            if (nomeLuogo.Contains("Percorso"))
-                s += "nel " + nomeLuogo;
+            if (locationName.Contains("Percorso"))
+                s += "nel " + locationName;
             else
-                s += "a " + nomeLuogo;
+                s += "a " + locationName;
 
             if (level.Contains(',') || level.Contains('-'))
                 s += " ai livelli " + level;
             else
                 s += " al livello " + level;
 
-            if (parteLuogo.Contains("Acqua"))
-                s += " in " + parteLuogo + " con " + mode;
-            else if (parteLuogo.Contains("Laboratorio"))
-                s += " nel " + parteLuogo;
-            else if (parteLuogo.Contains("Grotta"))
-                s += " nella " + parteLuogo;
-            else if (parteLuogo != "")
-                s += " nella parte " + parteLuogo;
+            if (locationPart.Contains("Acqua"))
+                s += " in " + locationPart + " con " + mode;
+            else if (locationPart.Contains("Laboratorio"))
+                s += " nel " + locationPart;
+            else if (locationPart.Contains("Grotta"))
+                s += " nella " + locationPart;
+            else if (locationPart != "")
+                s += " nella parte " + locationPart;
 
             if (mode.Contains("Erba"))
                 s += " nell'erba";
             else if (mode.Contains("Fiori"))
                 s += " nei " + mode;
-            else if (!parteLuogo.Contains("Acqua"))
+            else if (!locationPart.Contains("Acqua"))
                 s += " in " + mode;
 
            
-            if (forma == "" || forma == "Normale")
+            if (form == "" || form == "Normale")
                 s += ",";
             else
-                s += ", nella forma " + forma;
+                s += ", nella forma " + form;
 
             s += " con probabilità " + probability;
 
