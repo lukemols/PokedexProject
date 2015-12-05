@@ -41,8 +41,8 @@ namespace PokedexProject
         {
             List<PokemonPlace> places = new List<PokemonPlace>();
             string gioco = "";
-            if (ProgramManager.DexActive)
-                gioco = ProgramManager.GetGameName();
+            //if (ProgramManager.DexActive)
+            //    gioco = ProgramManager.GetGameName();
 
             foreach (PokemonPlace p in placeList)
             {
@@ -66,8 +66,8 @@ namespace PokedexProject
         {
             List<PokemonPlace> places = new List<PokemonPlace>();
             string gioco = "";
-            if (ProgramManager.DexActive)
-                gioco = ProgramManager.GetGameName();
+            //if (ProgramManager.DexActive)
+            //    gioco = ProgramManager.GetGameName();
 
             foreach (PokemonPlace p in placeList)
             {

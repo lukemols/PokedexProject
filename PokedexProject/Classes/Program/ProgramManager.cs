@@ -19,16 +19,45 @@ namespace PokedexProject
 
         static ObservableCollection<Pokemon> pokemonList;
 
-        static void Initialize(string dexPath)
+        static async void Initialize(string dexPath)
         {
             string filePath = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\";
-            List<string> paths = new List<string>
+            string[] paths = new string[]
             {
                 filePath + "Evolutions.data", filePath + "Locations.data", filePath + "Places.data",
                 filePath + "Pokemon.data", filePath + "PokemonTypes.data"
             };
-            FileManager.ReadResourceFiles(paths);
-            if(dexPath != "")
+
+            foreach(string file in paths)
+            {
+                string[] fileLines = await FileManager.ReadResourceFiles(file);
+                List<string> lines = new List<string>();
+                foreach (string l in fileLines)
+                    lines.Add(l);
+
+                string[] s = file.Split('\\');
+                switch (s[s.Length - 1])
+                {
+                    case "Evolutions.data":
+                        EvolutionClassManager.GetEvoList(lines);
+                        break;
+                    case "Locations.data":
+                        LocationClassManager.GetLocationList(lines);
+                        break;
+                    case "Places.data":
+                        PokemonPlaceClassManager.GetPlaceList(lines);
+                        break;
+                    case "Pokemon.data":
+                        PokemonClassManager.GetPokemonList(lines);
+                        break;
+                    case "PokemonTypes.data":
+                        TypeClassManager.GetTipoList(lines);
+                        break;
+                }
+
+            }
+
+            if (dexPath != "")
             {
                 NewDex(dexPath);
             }

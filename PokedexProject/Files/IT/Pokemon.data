@@ -868,25 +868,25 @@
 #poke|688|Binacle|0,5|0||
 #poke|689|Barbaracle|1,3|0||
 #poke|690|Skrelp|0,5|0||
-#poke|691|Dragalge|1,8|0||
-#poke|692|Clauncher|0,5|0||
-#poke|693|Clawitzer|1,3|0||
-#poke|694|Helioptile|0,5|0||
-#poke|695|Heliolisk|1|0||
-#poke|696|Tyrunt|0,8|0||
-#poke|697|Tyrantrum|2,5|0||
-#poke|698|Amaura|1,3|0||
-#poke|699|Aurorus|2,7|0||
-#poke|700|Sylveon|1|0||
-#poke|701|Hawlucha|0,8|0||
-#poke|702|Dedenne|0,2|0||
-#poke|703|Carbink|0,3|0||
-#poke|704|Goomy|0,3|0||
-#poke|705|Sliggoo|0,8|0||
-#poke|706|Goodra|2|0||
-#poke|707|Klefki|0,2|0||
-#poke|708|Phantump|0,4|0||
-#poke|709|Trevenant|1,5|0||
+#poke|691|Dragalge|1,8|81,5||
+#poke|692|Clauncher|0,5|8,3||
+#poke|693|Clawitzer|1,3|35,3||
+#poke|694|Helioptile|0,5|6||
+#poke|695|Heliolisk|1|21||
+#poke|696|Tyrunt|0,8|26||
+#poke|697|Tyrantrum|2,5|270||
+#poke|698|Amaura|1,3|25,2||
+#poke|699|Aurorus|2,7|225||
+#poke|700|Sylveon|1|23,5||
+#poke|701|Hawlucha|0,8|21,5||
+#poke|702|Dedenne|0,2|2,2||
+#poke|703|Carbink|0,3|5,7||
+#poke|704|Goomy|0,3|2,8||
+#poke|705|Sliggoo|0,8|17,5||
+#poke|706|Goodra|2|105,5||
+#poke|707|Klefki|0,2|3||
+#poke|708|Phantump|0,4|7||
+#poke|709|Trevenant|1,5|71||
 #poke|710|Pumpkaboo|0,3|3,5|Mini|
 #poke|710|Pumpkaboo|0,4|5|Normale|
 #poke|710|Pumpkaboo|0,5|7,5|Grande|
@@ -895,19 +895,20 @@
 #poke|711|Gourgeist|0,9|12,5|Normale|
 #poke|711|Gourgeist|1,1|14|Grande|
 #poke|711|Gourgeist|1,7|39|Maxi|
-#poke|712|Bergmite|1|0||
-#poke|713|Avalugg|2|0||
-#poke|714|Noibat|0,5|0||
-#poke|715|Noivern|1,5|0||
-#poke|716|Xerneas|3|0|Relax|
-#poke|716|Xerneas|3|0|Attivo|
-#poke|717|Yveltal|5,8|0||
-#poke|718|Zygarde|5|0|Cellula|
-#poke|718|Zygarde|5|0|Nucleo|
-#poke|718|Zygarde|5|0|Forma 10%|
-#poke|718|Zygarde|5|0|Forma 50%|
-#poke|718|Zygarde|5|0|Forma perfetta|
+#poke|712|Bergmite|1|99,5||
+#poke|713|Avalugg|2|505||
+#poke|714|Noibat|0,5|8||
+#poke|715|Noivern|1,5|85||
+#poke|716|Xerneas|3|215|Relax|
+#poke|716|Xerneas|3|215|Attivo|
+#poke|717|Yveltal|5,8|203||
+#poke|718|Zygarde|0|0|Cellula|
+#poke|718|Zygarde|0|0|Nucleo|
+#poke|718|Zygarde|1,2|33,5|Forma 10%|
+#poke|718|Zygarde|5|305|Forma 50%|
+#poke|718|Zygarde|4,5|610|Forma perfetta|
 #poke|719|Diancie|0,7|8,8||
 #poke|719|Diancie|1,1|27,8|Megaevoluzione|
-#poke|720|Hoopa|0|0||
+#poke|720|Hoopa|0,5|9|Hoopa Vincolato|
+#poke|720|Hoopa|6.5|490|Hoopa Libero|
 #poke|721|Volcanion|0|0||
