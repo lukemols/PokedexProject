@@ -19,7 +19,9 @@ namespace PokedexProject
 
         static ObservableCollection<Pokemon> pokemonList;
 
-        static async void Initialize(string dexPath)
+        #region Operazioni di inizializzazione
+
+        static public async void Initialize(string dexPath = "")
         {
             string filePath = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\";
             string[] paths = new string[]
@@ -61,6 +63,7 @@ namespace PokedexProject
             {
                 NewDex(dexPath);
             }
+            LoadPokemonList();
         }
 
         /// <summary>
@@ -75,6 +78,28 @@ namespace PokedexProject
             dexActive = true;
         }
 
+        static void LoadPokemonList()
+        {
+            pokemonList = new ObservableCollection<Pokemon>();
+            int pokeLimit;
+
+            if (DexActive)
+                pokeLimit = GenerationClass.GenerationLimit[Dex.Generation];
+            else
+                pokeLimit = GenerationClass.GenerationLimit[GenerationClass.GenerationLimit.Length - 1];
+
+            int last = 0;
+            foreach(Pokemon p in PokemonClassManager.PokemonList)
+            {
+                if (p.Number != last && p.Number < pokeLimit)
+                {
+                    pokemonList.Add(p);
+                    last = p.Number;
+                }
+            }
+        }
+
+        #endregion
         #region Operazioni sulla lista dei Pokémon
 
         /// <summary>
