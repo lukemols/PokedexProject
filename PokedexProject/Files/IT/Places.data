@@ -5552,6 +5552,2189 @@
 #placePk|Johto|Pokémon Vagante||HGSS|243|Normale|Vagante per Johto|40|Uno|
 #placePk|Johto|Pokémon Vagante||HGSS|244|Normale|Vagante per Johto|40|Uno|
 
+#placePk|Hoenn|Albanova||Smeraldo|152|Normale|Regalo|5|Solo uno|
+#placePk|Hoenn|Albanova||Smeraldo|155|Normale|Regalo|5|Solo uno|
+#placePk|Hoenn|Albanova||Smeraldo|158|Normale|Regalo|5|Solo uno|
+
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|100%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|341|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Petalipoli|Acqua|RubinoZaffiroSmeraldo|341|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|183|Normale|Surf|15|50%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|184|Normale|Surf|20, 25|31%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|283|Normale|Surf|15|15%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|341|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Petalipoli|Acqua|ROZA|341|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Ferrugipoli||RubinoZaffiro|296|Normale|Scambio|Lo stesso di Slakoth|Uno|
+#placePk|Hoenn|Ferrugipoli||Smeraldo|273|Normale|Scambio|Lo stesso di Ralts|Uno|
+#placePk|Hoenn|Ferrugipoli||RubinoZaffiroSmeraldo|345|Normale|Root|20|Uno per ogni fossile|
+#placePk|Hoenn|Ferrugipoli||RubinoZaffiroSmeraldo|347|Normale|Claw|20|Uno per ogni fossile|
+#placePk|Hoenn|Ferrugipoli||ROZA|296|Normale|Scambio|9|Uno|
+
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Bluruvia|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Bluruvia|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Porto Selcepoli|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Porto Selcepoli||ROZA|25|Ro|Regalo|20|Uno, dopo aver partecipato per la prima volta alla Gara Pokémon se il giocatore è maschio. Ricevuto in una delle possibili Arene delle Virtù|
+#placePk|Hoenn|Porto Selcepoli||ROZA|25|Po|Regalo|20|Uno, dopo aver partecipato per la prima volta alla Gara Pokémon se il giocatore è femmina. Ricevuto in una delle possibili Arene delle Virtù|
+
+#placePk|Hoenn|Cuordilava||RubinoZaffiroSmeraldo|360|Normale|Uovo|5|Uno|
+#placePk|Hoenn|Cuordilava||ROZA|175|Normale|Uovo|1|Uno, dopo aver catturato o sconfitto Groudon/Kyogre|
+#placePk|Hoenn|Cuordilava||ROZA|360|Normale|Uovo|1|Uno|
+#placePk|Hoenn|Cuordilava||ROZA|352|Normale|Speciale|40|Uno, richiede il Devon Scopio, dopo aver catturato o sconfitto Groudon/Kyogre|
+
+#placePk|Hoenn|Forestopoli||RubinoZaffiro|300|Normale|Scambio con Pikachu|Lo stesso del Pokémon scambiato|Uno|
+#placePk|Hoenn|Forestopoli||Smeraldo|311|Normale|Scambio con Volbeat|Lo stesso del Pokémon scambiato|Uno|
+#placePk|Hoenn|Forestopoli||ROZA|300|Normale|Scambio con Spinda|30|Uno|
+
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|120|Normale|Super Amo|25-30|15%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|25-45|85%|
+#placePk|Hoenn|Porto Alghepoli||ROZA|75|Normale|Spaccaroccia|28-31|100%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|120|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Porto Alghepoli|Acqua|ROZA|320|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Porto Alghepoli||ROZA|25|Ro|Regalo|20|Uno, dopo aver partecipato per la prima volta alla Gara Pokémon se il giocatore è maschio. Ricevuto in una delle possibili Arene delle Virtù|
+#placePk|Hoenn|Porto Alghepoli||ROZA|25|Po|Regalo|20|Uno, dopo aver partecipato per la prima volta alla Gara Pokémon se il giocatore è femmina. Ricevuto in una delle possibili Arene delle Virtù|
+
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|25-45|60%|
+#placePk|Hoenn|Verdeazzupoli||RubinoZaffiroSmeraldo|374|Normale|Regalo|5|Uno|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Verdeazzupoli|Acqua|ROZA|320|Normale|Super Amo|25, 30, 40|100%|
+#placePk|Hoenn|Verdeazzupoli||ROZA|374|Normale|Regalo|1|Uno|
+#placePk|Hoenn|Verdeazzupoli||ROZA|352|Normale|Speciale|45|Uno, dopo l'episodio Delta. Ha la sua abilità nascosta|
+
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|129|Normale|Surf|5-35|100%|
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|100%|
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|129|Normale|Super Amo|30-35|80%|
+#placePk|Hoenn|Ceneride|Acqua|RubinoZaffiroSmeraldo|130|Normale|Super Amo|5-45|20%|
+#placePk|Hoenn|Ceneride|Acqua|ROZA|129|Normale|Surf|25, 30, 35|100%|
+#placePk|Hoenn|Ceneride|Acqua|ROZA|129|Normale|Amo Vecchio|5, 10, 15|100%|
+#placePk|Hoenn|Ceneride|Acqua|ROZA|129|Normale|Amo Buono|25|100%|
+#placePk|Hoenn|Ceneride|Acqua|ROZA|129|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Ceneride|Acqua|ROZA|130|Normale|Super Amo|40|5%|
+
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|370|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|222|Normale|Super Amo|30-35|15%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|30-45|45%|
+#placePk|Hoenn|Iridopoli|Acqua|RubinoZaffiroSmeraldo|370|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|370|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|222|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|320|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Iridopoli|Acqua|ROZA|370|Normale|Super Amo|35|60%|
+
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|25-35|40%|
+#placePk|Hoenn|Orocea|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|30-45|60%|
+#placePk|Hoenn|Orocea||Smeraldo|116|Normale|Scambio con Bagon|Lo stesso del Pokémon scambiato|Uno|
+#placePk|Hoenn|Orocea||RubinoZaffiro|222|Normale|Scambio con Bellossom|Lo stesso del Pokémon scambiato|Uno|
+#placePk|Hoenn|Orocea|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Orocea|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Orocea||ROZA|222|Normale|Scambio con Bellossom|50|Uno|
+
+#placePk|Hoenn|Percorso 101||RubinoZaffiroSmeraldo|252|Normale|Starter|5|Uno|
+#placePk|Hoenn|Percorso 101||RubinoZaffiroSmeraldo|255|Normale|Starter|5|Uno|
+#placePk|Hoenn|Percorso 101||RubinoZaffiroSmeraldo|258|Normale|Starter|5|Uno|
+#placePk|Hoenn|Percorso 101||RubinoZaffiro|263|Normale|Erba|2-3|45%|
+#placePk|Hoenn|Percorso 101||Smeraldo|263|Normale|Erba|2-3|10%|
+#placePk|Hoenn|Percorso 101||RubinoZaffiroSmeraldo|265|Normale|Erba|2-3|45%|
+#placePk|Hoenn|Percorso 101||RubinoZaffiro|261|Normale|Erba|2-3|10%|
+#placePk|Hoenn|Percorso 101||Smeraldo|261|Normale|Erba|2-3|45%|
+#placePk|Hoenn|Percorso 101||RubinoZaffiro|261|Normale|Attacco a Birch|2|Uno|
+#placePk|Hoenn|Percorso 101||Smeraldo|263|Normale|Attacco a Birch|2|Uno|
+#placePk|Hoenn|Percorso 101||ROZA|263|Normale|Erba|2|40%|
+#placePk|Hoenn|Percorso 101||ROZA|265|Normale|Erba|2|40%|
+#placePk|Hoenn|Percorso 101||ROZA|261|Normale|Erba|2|20%|
+#placePk|Hoenn|Percorso 101||ROZA|506|Normale|Erba (NaviDex)|2|??%|
+#placePk|Hoenn|Percorso 101||ROZA|540|Normale|Erba (NaviDex)|2|??%|
+#placePk|Hoenn|Percorso 101||ROZA|570|Normale|Erba (NaviDex)|2|??%|
+#placePk|Hoenn|Percorso 101||ROZA|263|Normale|Gruppi di Pokémon|2|5%|
+#placePk|Hoenn|Percorso 101||ROZA|261|Normale|Gruppi di Pokémon|2|95%|
+#placePk|Hoenn|Percorso 101||ROZA|252|Normale|Pokémon iniziale|5|Uno|
+#placePk|Hoenn|Percorso 101||ROZA|255|Normale|Pokémon iniziale|5|Uno|
+#placePk|Hoenn|Percorso 101||ROZA|258|Normale|Pokémon iniziale|5|Uno|
+#placePk|Hoenn|Percorso 101||ROZA|152|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|155|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|158|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|495|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|498|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|501|Normale|Regalo|5|Uno, dato dal Professor Birch dopo aver completato l'Episodio Delta|
+#placePk|Hoenn|Percorso 101||ROZA|387|Normale|Regalo|5|Uno, dopo aver sconfitto la Lega Pokémon per la seconda volta|
+#placePk|Hoenn|Percorso 101||ROZA|390|Normale|Regalo|5|Uno, dopo aver sconfitto la Lega Pokémon per la seconda volta|
+#placePk|Hoenn|Percorso 101||ROZA|393|Normale|Regalo|5|Uno, dopo aver sconfitto la Lega Pokémon per la seconda volta|
+#placePk|Hoenn|Percorso 101||ROZA|261|Normale|Speciale|3|Attacco a Birch|
+
+#placePk|Hoenn|Percorso 102||RubinoZaffiro|261|Normale|Erba|3-4|15%|
+#placePk|Hoenn|Percorso 102||Smeraldo|261|Normale|Erba|3-4|30%|
+#placePk|Hoenn|Percorso 102||RubinoZaffiro|263|Normale|Erba|3-4|30%|
+#placePk|Hoenn|Percorso 102||Smeraldo|263|Normale|Erba|3-4|15%|
+#placePk|Hoenn|Percorso 102||RubinoZaffiroSmeraldo|265|Normale|Erba|3-4|30%|
+#placePk|Hoenn|Percorso 102||ZaffiroSmeraldo|270|Normale|Erba|3-4|20%|
+#placePk|Hoenn|Percorso 102||Rubino|273|Normale|Erba|3-4|20%|
+#placePk|Hoenn|Percorso 102||Smeraldo|273|Normale|Erba|3|1%|
+#placePk|Hoenn|Percorso 102||RubinoZaffiroSmeraldo|280|Normale|Erba|4|4%|
+#placePk|Hoenn|Percorso 102||RubinoZaffiro|283|Normale|Erba|3|1%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiro|283|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 102|Acqua|Smeraldo|118|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|341|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 102|Acqua|RubinoZaffiroSmeraldo|341|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 102||ROZA|263|Normale|Erba|2-3|30%|
+#placePk|Hoenn|Percorso 102||ROZA|265|Normale|Erba|2-3|30%|
+#placePk|Hoenn|Percorso 102||ROZA|261|Normale|Erba|2-3|20%|
+#placePk|Hoenn|Percorso 102||ZA|270|Normale|Erba|2-3|15%|
+#placePk|Hoenn|Percorso 102||RO|273|Normale|Erba|2-3|15%|
+#placePk|Hoenn|Percorso 102||ROZA|280|Normale|Erba|3|10%|
+#placePk|Hoenn|Percorso 102||ROZA|283|Normale|Erba|3|15%|
+#placePk|Hoenn|Percorso 102||ROZA|263|Normale|Gruppi di Pokémon|2|60%|
+#placePk|Hoenn|Percorso 102||ZA|270|Normale|Gruppi di Pokémon|2|35%|
+#placePk|Hoenn|Percorso 102||RO|273|Normale|Gruppi di Pokémon|2|35%|
+#placePk|Hoenn|Percorso 102||ROZA|280|Normale|Gruppi di Pokémon|2|5%|
+#placePk|Hoenn|Percorso 102||ROZA|506|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 102||ROZA|535|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 102||ROZA|574|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|183|Normale|Surf|15|50%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|184|Normale|Surf|20-25|31%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|283|Normale|Surf|15|15%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|129|Normale|Amo Vecchio|10-15|65%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|341|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 102|Acqua|ROZA|341|Normale|Super Amo|30-40|100%|
+
+#placePk|Hoenn|Percorso 103||RubinoZaffiro|263|Normale|Erba|2-4|60%|
+#placePk|Hoenn|Percorso 103||Smeraldo|263|Normale|Erba|2-4|30%|
+#placePk|Hoenn|Percorso 103||RubinoZaffiro|261|Normale|Erba|2-4|30%|
+#placePk|Hoenn|Percorso 103||Smeraldo|261|Normale|Erba|2-4|60%|
+#placePk|Hoenn|Percorso 103||RubinoZaffiroSmeraldo|278|Normale|Erba|2-4|10%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|25-45|60%|
+#placePk|Hoenn|Percorso 103|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 103||ROZA|263|Normale|Erba|2-3|40%|
+#placePk|Hoenn|Percorso 103||ROZA|261|Normale|Erba|2-3|40%|
+#placePk|Hoenn|Percorso 103||ROZA|278|Normale|Erba|2-3|20%|
+#placePk|Hoenn|Percorso 103||ROZA|263|Normale|Gruppi di Pokémon|2|35%|
+#placePk|Hoenn|Percorso 103||ROZA|261|Normale|Gruppi di Pokémon|2|60%|
+#placePk|Hoenn|Percorso 103||ROZA|278|Normale|Gruppi di Pokémon|2|5%|
+#placePk|Hoenn|Percorso 103||ROZA|441|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 103||ROZA|506|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 103||RO|422|Normale|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 103||ZA|422|E|Erba (NaviDex)|3|??%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|72|Normale|Surf|20-25|65%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|129|Normale|Amo Vecchio|10-15|65%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 103|Acqua|ROZA|320|Normale|Super Amo|30-40|100%|
+
+#placePk|Hoenn|Percorso 104||RubinoZaffiro|263|Normale|Erba|4-5|50%|
+#placePk|Hoenn|Percorso 104||Smeraldo|261|Normale|Erba|4-5|40%|
+#placePk|Hoenn|Percorso 104||RubinoZaffiro|265|Normale|Erba|4-5|30%|
+#placePk|Hoenn|Percorso 104||Smeraldo|265|Normale|Erba|4-5|20%|
+#placePk|Hoenn|Percorso 104||Smeraldo|183|Normale|Erba|4-5|20%|
+#placePk|Hoenn|Percorso 104||RubinoZaffiroSmeraldo|276|Normale|Erba|4-5|10%|
+#placePk|Hoenn|Percorso 104||RubinoZaffiroSmeraldo|278|Normale|Erba|3-5|10%|
+#placePk|Hoenn|Percorso 104|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|95%|
+#placePk|Hoenn|Percorso 104|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 104|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|100%|
+#placePk|Hoenn|Percorso 104|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|100%|
+#placePk|Hoenn|Percorso 104|Acqua|RubinoZaffiroSmeraldo|129|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|263|Normale|Erba|2-5|40%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|265|Normale|Erba|2-5|40%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|276|Normale|Erba|3, 5|5%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|278|Normale|Erba|3, 5|15%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|441|Normale|Erba (NaviDex)|5|??%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|519|Normale|Erba (NaviDex)|5|??%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|540|Normale|Erba (NaviDex)|5|??%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|263|Normale|Gruppi di Pokémon|2|95%|
+#placePk|Hoenn|Percorso 104|Parte bassa|ROZA|278|Normale|Gruppi di Pokémon|2|5%|
+#placePk|Hoenn|Percorso 104|Parte bassa (Acqua)|ROZA|278|Normale|Surf|15, 20|95%|
+#placePk|Hoenn|Percorso 104|Parte bassa (Acqua)|ROZA|279|Normale|Surf|25|5%|
+#placePk|Hoenn|Percorso 104|Parte bassa (Acqua)|ROZA|129|Normale|Amo Vecchio|5, 10, 15|100%|
+#placePk|Hoenn|Percorso 104|Parte bassa (Acqua)|ROZA|129|Normale|Amo Buono|25|100%|
+#placePk|Hoenn|Percorso 104|Parte bassa (Acqua)|ROZA|129|Normale|Super Amo|30-40|100%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|263|Normale|Erba|4-7|40%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|265|Normale|Erba|4-7|40%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|276|Normale|Erba|5, 7|15%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|278|Normale|Erba|5, 7|5%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|441|Normale|Erba (NaviDex)|7|??%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|519|Normale|Erba (NaviDex)|7|??%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|540|Normale|Erba (NaviDex)|7|??%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|263|Normale|Gruppi di Pokémon|3|95%|
+#placePk|Hoenn|Percorso 104|Parte alta|ROZA|276|Normale|Gruppi di Pokémon|3|5%|
+#placePk|Hoenn|Percorso 104|Parte alta (Acqua)|ROZA|278|Normale|Surf|15, 20|95%|
+#placePk|Hoenn|Percorso 104|Parte alta (Acqua)|ROZA|279|Normale|Surf|25|5%|
+#placePk|Hoenn|Percorso 104|Parte alta (Acqua)|ROZA|129|Normale|Amo Vecchio|5, 10, 15|100%|
+#placePk|Hoenn|Percorso 104|Parte alta (Acqua)|ROZA|129|Normale|Amo Buono|25|100%|
+#placePk|Hoenn|Percorso 104|Parte alta (Acqua)|ROZA|129|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-25,27|35%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|60%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|40%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|40%|
+#placePk|Hoenn|Percorso 105|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|10-45|100%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|278|Normale|Surf|25|30%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|98|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 105|Acqua|RO|690|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 105|Acqua|ZA|692|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 105|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 106|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|98|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 106|Acqua|RO|690|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 106|Acqua|ZA|692|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 106|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 107|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|20-45|100%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|98|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 107|Acqua|RO|690|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 107|Acqua|ZA|692|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 107|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 107||ROZA|170|Normale|Sub|25|50%|
+#placePk|Hoenn|Percorso 107||ROZA|171|Normale|Sub|30|15%|
+#placePk|Hoenn|Percorso 107||ROZA|366|Normale|Sub|30|30%|
+#placePk|Hoenn|Percorso 107||ROZA|369|Normale|Sub|30, 35|5%|
+
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 108|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|98|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 108|Acqua|RO|690|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 108|Acqua|ZA|692|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 108|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 109|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|98|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 109|Acqua|RO|690|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 109|Acqua|ZA|692|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 109|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 110||RubinoZaffiroSmeraldo|309|Normale|Erba|12-13|30%|
+#placePk|Hoenn|Percorso 110||RubinoZaffiro|263|Normale|Erba|12|20%|
+#placePk|Hoenn|Percorso 110||Smeraldo|261|Normale|Erba|12|20%|
+#placePk|Hoenn|Percorso 110||RubinoSmeraldo|312|Normale|Erba|13|15%|
+#placePk|Hoenn|Percorso 110||Zaffiro|311|Normale|Erba|13|15%|
+#placePk|Hoenn|Percorso 110||RubinoZaffiroSmeraldo|43|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 110||RubinoZaffiroSmeraldo|316|Normale|Erba|12-13|10%|
+#placePk|Hoenn|Percorso 110||RubinoZaffiroSmeraldo|278|Normale|Erba|12|8%|
+#placePk|Hoenn|Percorso 110||RubinoSmeraldo|311|Normale|Erba|12|2%|
+#placePk|Hoenn|Percorso 110||Zaffiro|312|Normale|Erba|12|2%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 110|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 110||ROZA|309|Normale|Erba|10-13|40%|
+#placePk|Hoenn|Percorso 110||ROZA|263|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 110||ROZA|316|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 110||ROZA|43|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 110||ROZA|278|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 110||RO|312|Normale|Erba|11-13|16%|
+#placePk|Hoenn|Percorso 110||ZA|311|Normale|Erba|11-13|16%|
+#placePk|Hoenn|Percorso 110||ROZA|100|Normale|Erba|13|4%|
+#placePk|Hoenn|Percorso 110||ROZA|81|Normale|Gruppi di Pokémon|6|60%|
+#placePk|Hoenn|Percorso 110||ZA|311|Normale|Gruppi di Pokémon|6|35%|
+#placePk|Hoenn|Percorso 110||ROZA|311|Normale|Gruppi di Pokémon|6|5%, ne appariranno 4 in Zaffiro Alpha, e 1 in Rubino Omega con Minun|
+#placePk|Hoenn|Percorso 110||RO|312|Normale|Gruppi di Pokémon|6|35%|
+#placePk|Hoenn|Percorso 110||ROZA|312|Normale|Gruppi di Pokémon|6|5%, ne appariranno 4 in Rubino Omega, e 1 in Zaffiro Alpha con Plusle|
+#placePk|Hoenn|Percorso 110||RO|422|Normale|Erba (NaviDex)|13|??%|
+#placePk|Hoenn|Percorso 110||ZA|422|E|Erba (NaviDex)|13|??%|
+#placePk|Hoenn|Percorso 110||ROZA|568|Normale|Erba (NaviDex)|13|??%|
+#placePk|Hoenn|Percorso 110||ROZA|441|Normale|Erba (NaviDex)|13|??%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 110|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 111||RubinoZaffiroSmeraldo|27|Normale|Sabbia|19-21|35%|
+#placePk|Hoenn|Percorso 111||RubinoZaffiroSmeraldo|328|Normale|Sabbia|19-21|35%|
+#placePk|Hoenn|Percorso 111||RubinoZaffiro|331|Normale|Sabbia|19, 21|20%|
+#placePk|Hoenn|Percorso 111||Smeraldo|331|Normale|Sabbia|20, 22|6%|
+#placePk|Hoenn|Percorso 111||RubinoZaffiro|343|Normale|Sabbia|20, 22|10%|
+#placePk|Hoenn|Percorso 111||Smeraldo|343|Normale|Sabbia|19-21|24%|
+#placePk|Hoenn|Percorso 111||RubinoZaffiroSmeraldo|74|Normale|Spaccaroccia|5-20|100%|
+#placePk|Hoenn|Percorso 111|Acqua|Smeraldo|118|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiro|283|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 111|Acqua|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 111|Parte Sud|ROZA|74|Normale|Spaccaroccia|13-16|100%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|183|Normale|Surf|15|50%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|184|Normale|Surf|20, 25|31%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|283|Normale|Surf|20|15%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 111|Parte Sud (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|27|Normale|Sabbia|20-23|40%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|328|Normale|Sabbia|20, 22|20%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|331|Normale|Sabbia|21, 23|20%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|343|Normale|Sabbia|21, 23|20%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|27|Normale|Gruppi di Pokémon|11|100%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|443|Normale|Sabbia (NaviDex)|23|??%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|551|Normale|Sabbia (NaviDex)|23|??%|
+#placePk|Hoenn|Percorso 111|Deserto|ROZA|557|Normale|Sabbia (NaviDex)|23|??%|
+
+#placePk|Hoenn|Percorso 112||RubinoZaffiroSmeraldo|322|Normale|Erba|14-16|75%|
+#placePk|Hoenn|Percorso 112||RubinoZaffiro|66|Normale|Erba|14-16|25%|
+#placePk|Hoenn|Percorso 112||Smeraldo|183|Normale|Erba|14-16|25%|
+#placePk|Hoenn|Percorso 112||ROZA|66|Normale|Erba|14-17|35%|
+#placePk|Hoenn|Percorso 112||ROZA|322|Normale|Erba|14-17|65%|
+#placePk|Hoenn|Percorso 112||ROZA|66|Normale|Gruppi di Pokémon|8|35%|
+#placePk|Hoenn|Percorso 112||ROZA|322|Normale|Gruppi di Pokémon|8|65%|
+#placePk|Hoenn|Percorso 112||ROZA|77|Normale|Erba (NaviDex)|17|??%|
+#placePk|Hoenn|Percorso 112||ROZA|236|Normale|Erba (NaviDex)|17|??%|
+#placePk|Hoenn|Percorso 112||ZA|539|Normale|Erba (NaviDex)|17|??%|
+#placePk|Hoenn|Percorso 112||RO|538|Normale|Erba (NaviDex)|17|??%|
+
+#placePk|Hoenn|Percorso 113||RubinoZaffiroSmeraldo|327|Normale|Erba|14-16|70%|
+#placePk|Hoenn|Percorso 113||RubinoZaffiro|27|Normale|Erba|14-16|25%|
+#placePk|Hoenn|Percorso 113||Smeraldo|218|Normale|Erba|14-16|25%|
+#placePk|Hoenn|Percorso 113||RubinoZaffiroSmeraldo|227|Normale|Erba|16|5%|
+#placePk|Hoenn|Percorso 113||ROZA|327|Normale|Erba|15-18|60%|
+#placePk|Hoenn|Percorso 113||ROZA|27|Normale|Erba|15-18|35%|
+#placePk|Hoenn|Percorso 113||ROZA|227|Normale|Erba|16, 18|5%|
+#placePk|Hoenn|Percorso 113||ROZA|227|Normale|Gruppi di Pokémon|9|5%|
+#placePk|Hoenn|Percorso 113||ROZA|327|Normale|Gruppi di Pokémon|9|95%|
+#placePk|Hoenn|Percorso 113||ROZA|559|Normale|Erba (NaviDex)|18|??%|
+#placePk|Hoenn|Percorso 113||ROZA|626|Normale|Erba (NaviDex)|18|??%|
+#placePk|Hoenn|Percorso 113||ROZA|707|Normale|Erba (NaviDex)|18|??%|
+
+#placePk|Hoenn|Percorso 114||RubinoZaffiroSmeraldo|333|Normale|Erba|15-17|40%|
+#placePk|Hoenn|Percorso 114||Rubino|273|Normale|Erba|15-16|30%|
+#placePk|Hoenn|Percorso 114||ZaffiroSmeraldo|270|Normale|Erba|15-16|30%|
+#placePk|Hoenn|Percorso 114||Smeraldo|271|Normale|Erba|15-16|20%|
+#placePk|Hoenn|Percorso 114||Rubino|335|Normale|Erba|15-17|19%|
+#placePk|Hoenn|Percorso 114||Zaffiro|336|Normale|Erba|15-17|19%|
+#placePk|Hoenn|Percorso 114||Rubino|274|Normale|Erba|16-18|10%|
+#placePk|Hoenn|Percorso 114||Zaffiro|271|Normale|Erba|16-18|10%|
+#placePk|Hoenn|Percorso 114||Smeraldo|336|Normale|Erba|15-17|9%|
+#placePk|Hoenn|Percorso 114||Smeraldo|274|Normale|Erba|15|1%|
+#placePk|Hoenn|Percorso 114||RubinoZaffiro|283|Normale|Erba|15|1%|
+#placePk|Hoenn|Percorso 114||RubinoZaffiroSmeraldo|74|Normale|Spaccaroccia|5-20|100%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiro|283|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 114|Acqua|Smeraldo|118|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 114|Acqua|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 114||ZA|271|Normale|Erba|16-19|40%|
+#placePk|Hoenn|Percorso 114||RO|274|Normale|Erba|16-19|40%|
+#placePk|Hoenn|Percorso 114||ROZA|283|Normale|Erba|19|1%|
+#placePk|Hoenn|Percorso 114||ROZA|333|Normale|Erba|16-19|40%|
+#placePk|Hoenn|Percorso 114||RO|335|Normale|Erba|17, 19|19%|
+#placePk|Hoenn|Percorso 114||ZA|336|Normale|Erba|17, 19|19%|
+#placePk|Hoenn|Percorso 114||ZA|270|Normale|Gruppi di Pokémon|9|35%|
+#placePk|Hoenn|Percorso 114||RO|273|Normale|Gruppi di Pokémon|9|35%|
+#placePk|Hoenn|Percorso 114||ROZA|333|Normale|Gruppi di Pokémon|9|65%|
+#placePk|Hoenn|Percorso 114||ROZA|200|Normale|Erba (NaviDex)|19|??%|
+#placePk|Hoenn|Percorso 114||ROZA|451|Normale|Erba (NaviDex)|19|??%|
+#placePk|Hoenn|Percorso 114||ROZA|535|Normale|Erba (NaviDex)|19|??%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|183|Normale|Surf|15|50%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|184|Normale|Surf|20, 25|31%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|283|Normale|Surf|20|15%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 114|Acqua|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 114||ROZA|74|Normale|Spaccaroccia|5, 10, 15, 20|100%|
+
+#placePk|Hoenn|Percorso 115||RubinoZaffiroSmeraldo|276|Normale|Erba|23-25|40%|
+#placePk|Hoenn|Percorso 115||RubinoZaffiroSmeraldo|333|Normale|Erba|23-25|30%|
+#placePk|Hoenn|Percorso 115||RubinoZaffiroSmeraldo|39|Normale|Erba|24-25|10%|
+#placePk|Hoenn|Percorso 115||RubinoZaffiroSmeraldo|277|Normale|Erba|25|10%|
+#placePk|Hoenn|Percorso 115||RubinoZaffiroSmeraldo|278|Normale|Erba|24-26|10%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 115|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 115||ROZA|39|Normale|Erba|18, 20|10%|
+#placePk|Hoenn|Percorso 115||ROZA|276|Normale|Erba|17-20|40%|
+#placePk|Hoenn|Percorso 115||ROZA|278|Normale|Erba|20|10%|
+#placePk|Hoenn|Percorso 115||ROZA|333|Normale|Erba|17-20|40%|
+#placePk|Hoenn|Percorso 115||ROZA|333|Normale|Gruppi di Pokémon|10|100%|
+#placePk|Hoenn|Percorso 115||ROZA|519|Normale|Erba (NaviDex)|20|??%|
+#placePk|Hoenn|Percorso 115||ROZA|200|Normale|Erba (NaviDex)|20|??%|
+#placePk|Hoenn|Percorso 115||ROZA|35|Normale|Erba (NaviDex)|20|??%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 115|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 116||RubinoZaffiro|293|Normale|Erba|6-7|30%|
+#placePk|Hoenn|Percorso 116||RubinoZaffiro|263|Normale|Erba|6-8|28%|
+#placePk|Hoenn|Percorso 116||Smeraldo|261|Normale|Erba|6-8|28%|
+#placePk|Hoenn|Percorso 116||Smeraldo|293|Normale|Erba|6|20%|
+#placePk|Hoenn|Percorso 116||RubinoZaffiroSmeraldo|276|Normale|Erba|6-8|20%|
+#placePk|Hoenn|Percorso 116||RubinoZaffiroSmeraldo|290|Normale|Erba|6-7|20%|
+#placePk|Hoenn|Percorso 116||Smeraldo|63|Normale|Erba|7|10%|
+#placePk|Hoenn|Percorso 116||RubinoZaffiroSmeraldo|300|Normale|Erba|7-8|2%|
+#placePk|Hoenn|Percorso 116||ROZA|263|Normale|Erba|6-8|30%|
+#placePk|Hoenn|Percorso 116||ROZA|276|Normale|Erba|6, 8|15%|
+#placePk|Hoenn|Percorso 116||ROZA|290|Normale|Erba|6, 8|20%|
+#placePk|Hoenn|Percorso 116||ROZA|293|Normale|Erba|5-7|30%|
+#placePk|Hoenn|Percorso 116||ROZA|300|Normale|Erba|8|5%|
+#placePk|Hoenn|Percorso 116||ROZA|263|Normale|Gruppi di Pokémon|4|60%|
+#placePk|Hoenn|Percorso 116||ROZA|290|Normale|Gruppi di Pokémon|4|35%|
+#placePk|Hoenn|Percorso 116||ROZA|300|Normale|Gruppi di Pokémon|4|5%|
+#placePk|Hoenn|Percorso 116||ROZA|133|Normale|Erba (NaviDex)|8|??%|
+#placePk|Hoenn|Percorso 116||ROZA|519|Normale|Erba (NaviDex)|8|??%|
+#placePk|Hoenn|Percorso 116||ROZA|595|Normale|Erba (NaviDex)|8|??%|
+
+#placePk|Hoenn|Percorso 117||Smeraldo|43|Normale|Erba|13-14|40%|
+#placePk|Hoenn|Percorso 117||RubinoZaffiro|43|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 117||RubinoZaffiro|263|Normale|Erba|13-14|30%|
+#placePk|Hoenn|Percorso 117||RubinoZaffiro|315|Normale|Erba|13-14|30%|
+#placePk|Hoenn|Percorso 117||Smeraldo|261|Normale|Erba|13-14|30%|
+#placePk|Hoenn|Percorso 117||RubinoZaffiroSmeraldo|183|Normale|Erba|13|10%|
+#placePk|Hoenn|Percorso 117||RubinoZaffiro|283|Normale|Erba|13|1%}}|
+#placePk|Hoenn|Percorso 117||Smeraldo|273|Normale|Erba|13|1%|
+#placePk|Hoenn|Percorso 117||RubinoSmeraldo|314|Normale|Erba|13-14|18%|
+#placePk|Hoenn|Percorso 117||Zaffiro|314|Normale|Erba|13|1%|
+#placePk|Hoenn|Percorso 117||RubinoSmeraldo|313|Normale|Erba|13|1%|
+#placePk|Hoenn|Percorso 117||Zaffiro|313|Normale|Erba|13-14|18%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiro|283|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 117|Acqua|Smeraldo|118|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|341|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 117|Acqua|RubinoZaffiroSmeraldo|341|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 117||ROZA|43|Normale|Erba|14|10%|
+#placePk|Hoenn|Percorso 117||ROZA|183|Normale|Erba|11, 13|15%|
+#placePk|Hoenn|Percorso 117||ROZA|263|Normale|Erba|12-14|30%|
+#placePk|Hoenn|Percorso 117||ROZA|283|Normale|Erba|14|1%|
+#placePk|Hoenn|Percorso 117||RO|313|Normale|Erba|14|4%|
+#placePk|Hoenn|Percorso 117||ZA|313|Normale|Erba|11, 13|20%|
+#placePk|Hoenn|Percorso 117||RO|314|Normale|Erba|11, 13|20%|
+#placePk|Hoenn|Percorso 117||ZA|314|Normale|Erba|14|4%|
+#placePk|Hoenn|Percorso 117||ROZA|315|Normale|Erba|12, 14|20%|
+#placePk|Hoenn|Percorso 117||ROZA|43|Normale|Gruppi di Pokémon|7|60%, ne appariranno 4 con Zigzagoon|
+#placePk|Hoenn|Percorso 117||ROZA|183|Normale|Gruppi di Pokémon|7|5%|
+#placePk|Hoenn|Percorso 117||ROZA|263|Normale|Gruppi di Pokémon|7|60%, ne apparirà 1 con Oddish|
+#placePk|Hoenn|Percorso 117||ROZA|315|Normale|Gruppi di Pokémon|7|35%|
+#placePk|Hoenn|Percorso 117||ROZA|19|Normale|Erba (NaviDex)|14|??%|
+#placePk|Hoenn|Percorso 117||ROZA|535|Normale|Erba (NaviDex)|14|??%|
+#placePk|Hoenn|Percorso 117||ROZA|585|Normale|Erba (NaviDex)|14|??%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|183|Normale|Surf|15|50%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|184|Normale|Surf|20, 25|31%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|283|Normale|Surf|20|15%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|341|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|341|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Percorso 117|Acqua|ROZA|342|Normale|Super Amo|40|5%|
+
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|263|Normale|Erba|24-26|30%|
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|309|Normale|Erba|24-26|30%|
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|278|Normale|Erba|25-27|19%|
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|264|Normale|Erba|26|10%|
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|310|Normale|Erba|26|10%|
+#placePk|Hoenn|Percorso 118||RubinoZaffiro|352|Normale|Erba|25|1%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|318|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|318|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 118|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 118||ROZA|264|Normale|Erba|21-24|40%|
+#placePk|Hoenn|Percorso 118||ROZA|278|Normale|Erba|22-24|15%|
+#placePk|Hoenn|Percorso 118||ROZA|309|Normale|Erba|21-24|40%|
+#placePk|Hoenn|Percorso 118||ROZA|352|Normale|Erba|24|5%|
+#placePk|Hoenn|Percorso 118||ROZA|264|Normale|Erba|21-23|40%|
+#placePk|Hoenn|Percorso 118||ROZA|279|Normale|Erba|22-24|15%|
+#placePk|Hoenn|Percorso 118||ROZA|309|Normale|Erba|21,22,24|40%|
+#placePk|Hoenn|Percorso 118||ROZA|352|Normale|Erba|24|5%|
+#placePk|Hoenn|Percorso 118||ROZA|20|Normale|Erba (NaviDex)|24|??%|
+#placePk|Hoenn|Percorso 118||ROZA|190|Normale|Erba (NaviDex)|24|??%|
+#placePk|Hoenn|Percorso 118||ROZA|404|Normale|Erba (NaviDex)|24|??%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|318|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|318|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Percorso 118|Acqua|ROZA|319|Normale|Super Amo|40|5%|
+
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|43|Normale|Erba alta|24-27|30%|
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|263|Normale|Erba alta|25, 27|30%|
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|264|Normale|Erba alta|25, 27|30%|
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|352|Normale|Erba alta|25|1%|
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|357|Normale|Erba alta|25-27|9%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-35|35%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|318|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|318|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|349|Normale|Amo Vecchio|20-25|50%, appare solo in sei quadrati casuali|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|349|Normale|Amo Buono|20-25|50%, appare solo in sei quadrati casuali|
+#placePk|Hoenn|Percorso 119|Acqua|RubinoZaffiroSmeraldo|349|Normale|Super Amo|20-25|50%, appare solo in sei quadrati casuali|
+#placePk|Hoenn|Percorso 119||RubinoZaffiroSmeraldo|352|Normale|Speciale|30|Due, richiede Devon Scopio|
+#placePk|Hoenn|Percorso 119||ROZA|44|Normale|Erba alta|22-25|40%|
+#placePk|Hoenn|Percorso 119||ROZA|264|Normale|Erba alta|22-25|40%|
+#placePk|Hoenn|Percorso 119||ROZA|352|Normale|Erba alta|25|5%|
+#placePk|Hoenn|Percorso 119||ROZA|357|Normale|Erba alta|23, 25|15%|
+#placePk|Hoenn|Percorso 119||ROZA|43|Normale|Gruppi di Pokémon|12|100%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|129|Normale|Amo Vecchio|10|60%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Amo Vecchio|15|5%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|318|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|318|Normale|Super Amo|35|60%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|319|Normale|Super Amo|40|35%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Super Amo|35|5%|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Amo Vecchio|15|100%, al giorno sotto il ponte vicino all'Istituto Meteo, di note vicino alla roccia a Nord-Ovest del Pokémon Ranger Catherine|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Amo Buono|25|100%, al giorno sotto il ponte vicino all'Istituto Meteo, di note vicino alla roccia a Nord-Ovest del Pokémon Ranger Catherine|
+#placePk|Hoenn|Percorso 119|Acqua|ROZA|349|Normale|Super Amo|35|100%, al giorno sotto il ponte vicino all'Istituto Meteo, di note vicino alla roccia a Nord-Ovest del Pokémon Ranger Catherine|
+#placePk|Hoenn|Percorso 119||ROZA|352|Normale|Speciale|30|Uno, richiede Devon Scopio|
+
+#placePk|Hoenn|Percorso 120||RubinoZaffiroSmeraldo|43|Normale|Erba alta|25-27|25%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiroSmeraldo|183|Normale|Erba alta|25, 27|15%|
+#placePk|Hoenn|Percorso 120||Smeraldo|261|Normale|Erba alta|25|20%|
+#placePk|Hoenn|Percorso 120||Smeraldo|262|Normale|Erba alta|25, 27|30%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiro|263|Normale|Erba alta|25|20%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiro|264|Normale|Erba alta|25, 27|30%|
+#placePk|Hoenn|Percorso 120||Smeraldo|273|Normale|Erba alta|25|1%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiro|283|Normale|Erba alta|25|1%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiroSmeraldo|352|Normale|Erba alta|25|1%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiroSmeraldo|359|Normale|Erba alta|25, 27|8%|
+#placePk|Hoenn|Percorso 120|Acqua|Smeraldo|118|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|183|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiro|283|Normale|Surf|20-30|1%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 120|Acqua|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 120||RubinoZaffiroSmeraldo|352|Normale|Speciale|30|Sei, richiedono Devon Scopio|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|44|Normale|Erba alta|24-27|40%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|264|Normale|Erba alta|24-27|40%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|352|Normale|Erba alta|27|5%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|357|Normale|Erba alta|27|10%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|359|Normale|Erba alta|27|5%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|43|Normale|Gruppi di Pokémon|13|60%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|183|Normale|Gruppi di Pokémon|13|35%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|352|Normale|Gruppi di Pokémon|13|5%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|184|Normale|Surf|20, 25, 30|66%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|283|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 120|Parte Est (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 120|Parte Est|ROZA|352|Normale|Speciale|30|Tre, richiedono Devon Scopio|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|44|Normale|Erba alta|24-27|40%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|264|Normale|Erba alta|24-27|40%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|352|Normale|Erba alta|27|5%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|357|Normale|Erba alta|27|10%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|359|Normale|Erba alta|27|5%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|43|Normale|Gruppi di Pokémon|13|60%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|183|Normale|Gruppi di Pokémon|13|35%|
+#placePk|Hoenn|Percorso 120|Parte Ovest|ROZA|352|Normale|Gruppi di Pokémon|13|5%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|184|Normale|Surf|20, 25, 30|66%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|283|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 120|Parte Ovest (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 121||Rubino|355|Normale|Erba|26-28|30%|
+#placePk|Hoenn|Percorso 121||ZaffiroSmeraldo|353|Normale|Erba|26-28|30%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiro|263|Normale|Erba|26|20%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiro|264|Normale|Erba|26-28|20%|
+#placePk|Hoenn|Percorso 121||Smeraldo|261|Normale|Erba|26|20%|
+#placePk|Hoenn|Percorso 121||Smeraldo|262|Normale|Erba|26-28|20%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiroSmeraldo|43|Normale|Erba|26-28|15%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiroSmeraldo|44|Normale|Erba|26-28|5%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiroSmeraldo|278|Normale|Erba|28|9%|
+#placePk|Hoenn|Percorso 121||RubinoZaffiroSmeraldo|352|Normale|Erba|25|1%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 121|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 121||ROZA|44|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Percorso 121||ROZA|264|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Percorso 121||ROZA|279|Normale|Erba|30|5%|
+#placePk|Hoenn|Percorso 121||ROZA|352|Normale|Erba|30|5%|
+#placePk|Hoenn|Percorso 121||ROZA|353|Normale|Erba|27-29|30%|
+#placePk|Hoenn|Percorso 121||ROZA|44|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Percorso 121||ROZA|264|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Percorso 121||ROZA|279|Normale|Erba alta|30|5%|
+#placePk|Hoenn|Percorso 121||ROZA|352|Normale|Erba alta|30|5%|
+#placePk|Hoenn|Percorso 121||ROZA|353|Normale|Erba alta|27-29|30%|
+#placePk|Hoenn|Percorso 121||ROZA|278|Normale|Erba|15|35%|
+#placePk|Hoenn|Percorso 121||ROZA|352|Normale|Erba|15|5%|
+#placePk|Hoenn|Percorso 121||ROZA|353|Normale|Erba|15|60%|
+#placePk|Hoenn|Percorso 121||ROZA|278|Normale|Erba alta|15|35%|
+#placePk|Hoenn|Percorso 121||ROZA|352|Normale|Erba alta|15|5%|
+#placePk|Hoenn|Percorso 121||ROZA|353|Normale|Erba alta|15|60%|
+#placePk|Hoenn|Percorso 121||ROZA|97|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 121||ROZA|190|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 121||ROZA|605|Normale|Erba (NaviDex)|30|??%|
+
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 122|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|456|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|592|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|594|Normale|Surf (NaviDex)|25|??%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 122|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 123||Rubino|355|Normale|Erba|26-28|30%|
+#placePk|Hoenn|Percorso 123||ZaffiroSmeraldo|353|Normale|Erba|26-28|30%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiro|263|Normale|Erba|26|20%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiro|264|Normale|Erba|26-28|20%|
+#placePk|Hoenn|Percorso 123||Smeraldo|261|Normale|Erba|26|20%|
+#placePk|Hoenn|Percorso 123||Smeraldo|262|Normale|Erba|26-28|20%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiroSmeraldo|43|Normale|Erba|26-28|15%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiroSmeraldo|44|Normale|Erba|26-28|5%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiroSmeraldo|278|Normale|Erba|28|9%|
+#placePk|Hoenn|Percorso 123||RubinoZaffiroSmeraldo|352|Normale|Erba|25|1%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 123|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Percorso 123||ROZA|44|Normale|Erba alta|29-31|30%|
+#placePk|Hoenn|Percorso 123||ROZA|264|Normale|Erba alta|29-31|30%|
+#placePk|Hoenn|Percorso 123||ROZA|279|Normale|Erba alta|31|5%|
+#placePk|Hoenn|Percorso 123||ROZA|352|Normale|Erba alta|31|5%|
+#placePk|Hoenn|Percorso 123||ROZA|353|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Percorso 123||ROZA|278|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Percorso 123||ROZA|352|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Percorso 123||ROZA|353|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|183|Normale|Surf|20|50%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|184|Normale|Surf|25, 30|16%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|283|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|284|Normale|Surf|25|4%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|341|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|341|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Percorso 123|Acqua|ROZA|342|Normale|Super Amo|40|5%|
+
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 124|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|25-45|60%|
+#placePk|Hoenn|Percorso 124||RubinoZaffiroSmeraldo|170|Normale|Sub|20-30|30%|
+#placePk|Hoenn|Percorso 124||RubinoZaffiroSmeraldo|366|Normale|Sub|20-35|65%|
+#placePk|Hoenn|Percorso 124||RubinoZaffiroSmeraldo|369|Normale|Sub|30-35|5%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|456|Normale|Surf|30|??%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|592|Normale|Surf|30|??%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|594|Normale|Surf|30|??%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 124|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 124||ROZA|170|Normale|Alghe|25|50%|
+#placePk|Hoenn|Percorso 124||ROZA|171|Normale|Alghe|30|15%|
+#placePk|Hoenn|Percorso 124||ROZA|366|Normale|Alghe|30|30%|
+#placePk|Hoenn|Percorso 124||ROZA|369|Normale|Alghe|30, 35|5%|
+
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 125|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|86|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 125|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 126|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 126||RubinoZaffiroSmeraldo|170|Normale|Sub|20-35|65%|
+#placePk|Hoenn|Percorso 126||RubinoZaffiroSmeraldo|366|Normale|Sub|20-35|30%|
+#placePk|Hoenn|Percorso 126||RubinoZaffiroSmeraldo|369|Normale|Sub|30-35|5%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 126|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 126||ROZA|170|Normale|Alghe|25|50%|
+#placePk|Hoenn|Percorso 126||ROZA|171|Normale|Alghe|30|15%|
+#placePk|Hoenn|Percorso 126||ROZA|366|Normale|Alghe|30|30%|
+#placePk|Hoenn|Percorso 126||ROZA|369|Normale|Alghe|30, 35|5%|
+
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 127|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 127|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|370|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|30-35|45%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|370|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 128|Acqua|RubinoZaffiroSmeraldo|222|Normale|Super Amo|30-35|15%|
+#placePk|Hoenn|Percorso 128||RubinoZaffiroSmeraldo|170|Normale|Sub|20-35|65%|
+#placePk|Hoenn|Percorso 128||RubinoZaffiroSmeraldo|366|Normale|Sub|20-35|30%|
+#placePk|Hoenn|Percorso 128||RubinoZaffiroSmeraldo|369|Normale|Sub|30-35|5%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|370|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|222|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|320|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 128|Acqua|ROZA|370|Normale|Super Amo|35|60%|
+#placePk|Hoenn|Percorso 128||ROZA|170|Normale|Alghe|25|50%|
+#placePk|Hoenn|Percorso 128||ROZA|171|Normale|Alghe|30|15%|
+#placePk|Hoenn|Percorso 128||ROZA|222|Normale|Alghe|30|4%|
+#placePk|Hoenn|Percorso 128||ROZA|366|Normale|Alghe|30|30%|
+#placePk|Hoenn|Percorso 128||ROZA|369|Normale|Alghe|35|1%|
+
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|4%|
+#placePk|Hoenn|Percorso 129|Acqua|Rubino|321|Normale|Surf|35-40|1%|
+#placePk|Hoenn|Percorso 129|Acqua|ZaffiroSmeraldo|321|Normale|Surf|25-30|1%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|370|Normale|Super Amo|30-35|5%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|35%|
+#placePk|Hoenn|Percorso 129|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|25-45|60%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 129|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Percorso 129||ROZA|170|Normale|Alghe|25|50%|
+#placePk|Hoenn|Percorso 129||ROZA|171|Normale|Alghe|30|15%|
+#placePk|Hoenn|Percorso 129||ROZA|366|Normale|Alghe|30|30%|
+#placePk|Hoenn|Percorso 129||ROZA|369|Normale|Alghe|30, 35|5%|
+
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 130|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|116|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|117|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 130|Acqua|ROZA|320|Normale|Super Amo|35|60%|
+#placePk|Hoenn|Percorso 130||ROZA|170|Normale|Alghe|25|50%|
+#placePk|Hoenn|Percorso 130||ROZA|171|Normale|Alghe|30|15%|
+#placePk|Hoenn|Percorso 130||ROZA|366|Normale|Alghe|30|30%|
+#placePk|Hoenn|Percorso 130||ROZA|369|Normale|Alghe|30, 35|5%|
+
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|60%|
+#placePk|Hoenn|Percorso 131|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|116|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|117|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 131|Acqua|ROZA|320|Normale|Super Amo|35|60%|
+
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|45%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 132|Acqua|RubinoZaffiroSmeraldo|116|Normale|Super Amo|25-30|15%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|116|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|117|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 132|Acqua|ROZA|320|Normale|Super Amo|35|60%|
+
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|45%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 133|Acqua|RubinoZaffiroSmeraldo|116|Normale|Super Amo|25-30|15%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|279|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|116|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|117|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 133|Acqua|ROZA|320|Normale|Super Amo|35|60%|
+
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|278|Normale|Surf|10-30|35%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|279|Normale|Surf|25-30|5%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|45%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|319|Normale|Super Amo|30-35|40%|
+#placePk|Hoenn|Percorso 134|Acqua|RubinoZaffiroSmeraldo|116|Normale|Super Amo|25-30|15%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|72|Normale|Surf|20, 25|65%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|278|Normale|Surf|20|30%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|279|Normale|Surf|25, 30|5%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|456|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|592|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|594|Normale|Surf (NaviDex)|30|??%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|116|Normale|Super Amo|30|35%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|117|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Percorso 134|Acqua|ROZA|320|Normale|Super Amo|35|60%|
+
+#placePk|Hoenn|Bosco Petalo||Smeraldo|261|Normale|Erba|5-6|30%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiro|263|Normale|Erba|5-6|30%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|265|Normale|Erba|5-6|25%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|266|Normale|Erba|5|10%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|268|Normale|Erba|5|10%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|276|Normale|Erba|5-6|5%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|285|Normale|Erba|5-6|15%|
+#placePk|Hoenn|Bosco Petalo||RubinoZaffiroSmeraldo|287|Normale|Erba|5-6|5%|
+#placePk|Hoenn|Bosco Petalo||ROZA|263|Normale|Erba|4-6|30%|
+#placePk|Hoenn|Bosco Petalo||ROZA|265|Normale|Erba|4-6|30%|
+#placePk|Hoenn|Bosco Petalo||ROZA|266|Normale|Erba|6|10%|
+#placePk|Hoenn|Bosco Petalo||ROZA|268|Normale|Erba|6|10%|
+#placePk|Hoenn|Bosco Petalo||ROZA|276|Normale|Erba|5|5%|
+#placePk|Hoenn|Bosco Petalo||ROZA|285|Normale|Erba|5|10%|
+#placePk|Hoenn|Bosco Petalo||ROZA|287|Normale|Erba|5|5%|
+#placePk|Hoenn|Bosco Petalo||ROZA|263|Normale|Gruppi di Pokémon|3|35%|
+#placePk|Hoenn|Bosco Petalo||ROZA|265|Normale|Gruppi di Pokémon|3|60%|
+#placePk|Hoenn|Bosco Petalo||ROZA|285|Normale|Gruppi di Pokémon|3|5%|
+#placePk|Hoenn|Bosco Petalo||ROZA|46|Normale|Erba (NaviDex)|6|??%|
+#placePk|Hoenn|Bosco Petalo||ROZA|546|Normale|Erba (NaviDex)|6|??%|
+#placePk|Hoenn|Bosco Petalo||ROZA|708|Normale|Erba (NaviDex)|6|??%|
+
+#placePk|Hoenn|Tunnel Menferro||RubinoZaffiroSmeraldo|293|Normale|Grotta|5-8|100%}}|
+#placePk|Hoenn|Tunnel Menferro||ROZA|293|Normale|Grotta|7-10|100%|
+#placePk|Hoenn|Tunnel Menferro||ROZA|293|Normale|Gruppi di Pokémon|5|100%|
+#placePk|Hoenn|Tunnel Menferro||ROZA|74|Normale|Spaccaroccia|14-17|100%|
+
+#placePk|Hoenn|Grotta Insulare||RubinoZaffiroSmeraldo|378|Normale|Speciale|40|Solo uno|
+#placePk|Hoenn|Grotta Insulare||ROZA|378|Normale|Speciale|40|uno|
+#placePk|Hoenn|Grotta Insulare||ROZA|486|Normale|Speciale|50|Uno, solo se si ha in squadra Regice soprannominato e con uno strumento 'freddo' più Regirock e Registeel durante il giorno e dopo aver catturato Groudon/Kyogre|
+
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|RubinoZaffiroSmeraldo|41|Normale|Caverna|7-8|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|RubinoZaffiroSmeraldo|63|Normale|Caverna|8|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|RubinoZaffiroSmeraldo|74|Normale|Caverna|6-9|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|RubinoZaffiroSmeraldo|296|Normale|Caverna|6-10|50%|
+#placePk|Hoenn|Grotta Pietrosa|Sala di Rocco|RubinoZaffiroSmeraldo|41|Normale|Caverna|7-8|30%|
+#placePk|Hoenn|Grotta Pietrosa|Sala di Rocco|RubinoZaffiroSmeraldo|63|Normale|Caverna|8|10%|
+#placePk|Hoenn|Grotta Pietrosa|Sala di Rocco|RubinoZaffiroSmeraldo|296|Normale|Caverna|6-10|50%|
+#placePk|Hoenn|Grotta Pietrosa|Sala di Rocco|RubinoZaffiroSmeraldo|304|Normale|Caverna|7-8|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|RubinoZaffiroSmeraldo|41|Normale|Caverna|9-10|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|RubinoZaffiroSmeraldo|63|Normale|Caverna|9|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|RubinoZaffiroSmeraldo|296|Normale|Caverna|10-11|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ZaffiroSmeraldo|302|Normale|Caverna|9-11|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|Rubino|303|Normale|Caverna|9-11|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|RubinoZaffiroSmeraldo|304|Normale|Caverna|9-11|40%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RubinoZaffiroSmeraldo|41|Normale|Caverna|10-11|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RubinoZaffiroSmeraldo|63|Normale|Caverna|10|10%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ZaffiroSmeraldo|302|Normale|Caverna|10-12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|Rubino|303|Normale|Caverna|10-12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RubinoZaffiroSmeraldo|304|Normale|Caverna|10-12|40%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RubinoZaffiroSmeraldo|74|Normale|Spaccaroccia|5-20|70%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RubinoZaffiroSmeraldo|299|Normale|Spaccaroccia|10-20|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|41|Normale|Caverna|9-12|40%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|63|Normale|Caverna|10, 12|15%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|74|Normale|Caverna|10, 12|5%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|296|Normale|Caverna|9-12|40%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|41|Normale|Gruppi di Pokémon|6|60%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|74|Normale|Gruppi di Pokémon|6|35%, ne apparirà 1 con Makuhita|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|296|Normale|Gruppi di Pokémon|6|35%, ne appariranno 4 con Geodude|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|296|Normale|Gruppi di Pokémon|6|5%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|95|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|532|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1|ROZA|610|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|41|Normale|Caverna|10-12|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|63|Normale|Caverna|10, 12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|296|Normale|Caverna|10, 12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|304|Normale|Caverna|10-12|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|41|Normale|Gruppi di Pokémon|6|60%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|304|Normale|Gruppi di Pokémon|6|40%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|95|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|532|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 1S|ROZA|610|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|41|Normale|Caverna|10-12|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|63|Normale|Caverna|10, 12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RO|303|Normale|Caverna|10, 12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ZA|302|Normale|Caverna|10, 12|20%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|304|Normale|Caverna|10-12|30%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|41|Normale|Gruppi di Pokémon|6|60%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ZA|302|Normale|Gruppi di Pokémon|6|5%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|RO|303|Normale|Gruppi di Pokémon|6|5%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|304|Normale|Gruppi di Pokémon|6|35%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|95|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|532|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|610|Normale|Caverna (NaviDex)|12|??%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|74|Normale|Spaccaroccia|10-12|84%|
+#placePk|Hoenn|Grotta Pietrosa|Piano 2S|ROZA|299|Normale|Spaccaroccia|10, 12|16%|
+
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|40%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|72|Normale|Super Amo|25-35|80%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|73|Normale|Super Amo|30-35|20%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|99%|
+#placePk|Hoenn|Vecchia Nave|Acqua|RubinoZaffiroSmeraldo|73|Normale|Surf|30-35|1%|
+
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Surf|15, 20|65%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|278|Normale|Surf|15, 20|34%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|279|Normale|Surf|25|1%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Ciclamare||RO|250|Normale|Speciale|50|Uno, richiede Campana Chiara|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Surf|15, 20, 25|100%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Ciclamare|Acqua|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Ciclamare||ROZA|442|Normale|Speciale|50|Uno, nascosto nella prima stanza nel lato a sud (sinistra) della parte più a nord (destra) dello scafo.|
+#placePk|Hoenn|Ciclamare||ZA|249|Normale|Speciale|50|Uno, richiede Campana Onda|
+
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|81|Normale|Edificio|22-26|50%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|100|Normale|Edificio|22-26|50%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|81|Normale|Edificio|22-26|49%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|82|Normale|Edificio|26|1%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|100|Normale|Edificio|22-26|49%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|101|Normale|Edificio|26|1%|
+#placePk|Hoenn|Ciclanova||RubinoZaffiroSmeraldo|100|Normale|Finto|25|-|
+#placePk|Hoenn|Ciclanova||ROZA|81|Normale|Pavimento|22-25|50%|
+#placePk|Hoenn|Ciclanova||ROZA|100|Normale|Pavimento|22-25|50%|
+#placePk|Hoenn|Ciclanova||ROZA|81|Normale|Gruppi di Pokémon|12|35%|
+#placePk|Hoenn|Ciclanova||ROZA|100|Normale|Gruppi di Pokémon|12|65%|
+#placePk|Hoenn|Ciclanova||ROZA|100|Normale|Strumento finto|25|-|
+
+#placePk|Hoenn|Rovine Sabbiose||RubinoZaffiroSmeraldo|377|Normale|Speciale|40|Uno|
+#placePk|Hoenn|Rovine Sabbiose||ROZA|377|Normale|Speciale|40|uno|
+
+#placePk|Hoenn|Torre Miraggio||Smeraldo|27|Normale|Grotta|20-24|50%|
+#placePk|Hoenn|Torre Miraggio||Smeraldo|328|Normale|Grotta|20-23|50%|
+
+#placePk|Hoenn|Cammino Ardente||RubinoZaffiroSmeraldo|66|Normale|Grotta|15-16|15%|
+#placePk|Hoenn|Cammino Ardente||RubinoSmeraldo|88|Normale|Grotta|14-16|2%|
+#placePk|Hoenn|Cammino Ardente||Zaffiro|88|Normale|Grotta|15-16|25%|
+#placePk|Hoenn|Cammino Ardente||RubinoSmeraldo|109|Normale|Grotta|15-16|25%|
+#placePk|Hoenn|Cammino Ardente||Zaffiro|109|Normale|Grotta|14-16|2%|
+#placePk|Hoenn|Cammino Ardente||RubinoZaffiroSmeraldo|218|Normale|Grotta|15 |10%|
+#placePk|Hoenn|Cammino Ardente||RubinoZaffiroSmeraldo|322|Normale|Grotta|15-16|30%|
+#placePk|Hoenn|Cammino Ardente||RubinoZaffiroSmeraldo|324|Normale|Grotta|14-16|18%|
+#placePk|Hoenn|Cammino Ardente||ROZA|66|Normale|Grotta|15|5%|
+#placePk|Hoenn|Cammino Ardente||RO|88|Normale|Grotta|15|5%|
+#placePk|Hoenn|Cammino Ardente||ZA|88|Normale|Grotta|14-16|30%|
+#placePk|Hoenn|Cammino Ardente||RO|109|Normale|Grotta|14-16|30%|
+#placePk|Hoenn|Cammino Ardente||ZA|109|Normale|Grotta|15|5%|
+#placePk|Hoenn|Cammino Ardente||ROZA|218|Normale|Grotta|15|10%|
+#placePk|Hoenn|Cammino Ardente||ROZA|322|Normale|Grotta|13-16|40%|
+#placePk|Hoenn|Cammino Ardente||ROZA|324|Normale|Grotta|15|10%|
+#placePk|Hoenn|Cammino Ardente||ZA|88|Normale|Gruppi di Pokémon|8|35%|
+#placePk|Hoenn|Cammino Ardente||RO|109|Normale|Gruppi di Pokémon|8|35%|
+#placePk|Hoenn|Cammino Ardente||ROZA|218|Normale|Gruppi di Pokémon|8|5%|
+#placePk|Hoenn|Cammino Ardente||ROZA|322|Normale|Gruppi di Pokémon|8|60%|
+#placePk|Hoenn|Cammino Ardente||ROZA|50|Normale|Grotta (NaviDex)|15|??%|
+#placePk|Hoenn|Cammino Ardente||ROZA|236|Normale|Grotta (NaviDex)|15|??%|
+#placePk|Hoenn|Cammino Ardente||ROZA|524|Normale|Grotta (NaviDex)|15|??%|
+
+#placePk|Hoenn|Passo Selvaggio||RubinoZaffiroSmeraldo|66|Normale|Erba|20|25%|
+#placePk|Hoenn|Passo Selvaggio||RubinoZaffiroSmeraldo|322|Normale|Erba|22|55%|
+#placePk|Hoenn|Passo Selvaggio||RubinoZaffiroSmeraldo|325|Normale|Erba|20-22|20%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|66|Normale|Erba|18-21|40%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|322|Normale|Erba|18-21|40%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|325|Normale|Erba|18-21|20%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|66|Normale|Gruppi di Pokémon|10|65%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|325|Normale|Gruppi di Pokémon|10|35%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|56|Normale|Erba (NaviDex)|21|??%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|77|Normale|Erba (NaviDex)|21|??%|
+#placePk|Hoenn|Passo Selvaggio||ROZA|236|Normale|Erba (NaviDex)|21|??%|
+
+#placePk|Hoenn|Galleria Deserto||Smeraldo|132|Normale|Grotta|38-45|50%|
+#placePk|Hoenn|Galleria Deserto||Smeraldo|293|Normale|Grotta|35-38|34%|
+#placePk|Hoenn|Galleria Deserto||Smeraldo|294|Normale|Grotta|40-44|16%|
+
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|RubinoZaffiroSmeraldo|41|Normale|Caverna|14-20|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|Zaffiro|337|Normale|Caverna|14, 16, 18|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|RubinoSmeraldo|338|Normale|Caverna|14, 16, 18|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|41|Normale|Surf|5-35|90%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoSmeraldo|338|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|Zaffiro|337|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|RubinoZaffiroSmeraldo|42|Normale|Caverna|33, 35, 38, 40|65%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|Zaffiro|337|Normale|Caverna|33, 35, 37, 39|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|RubinoSmeraldo|338|Normale|Caverna|33, 35, 37, 39|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|42|Normale|Surf|30-35|90%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|Zaffiro|337|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoSmeraldo|338|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-35|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RubinoZaffiroSmeraldo|340|Normale|Super Amo|30-45|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|RubinoZaffiroSmeraldo|42|Normale|Caverna|33, 35, 38, 40|50%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|Zaffiro|337|Normale|Caverna|35, 37, 39|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|RubinoSmeraldo|338|Normale|Caverna|35, 37, 39|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|RubinoZaffiroSmeraldo|371|Normale|Caverna|25, 30, 35|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|42|Normale|Surf|30-35|90%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|Zaffiro|337|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoSmeraldo|338|Normale|Surf|5-35|10%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Super Amo|20-35|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RubinoZaffiroSmeraldo|340|Normale|Super Amo|30-45|20%|
+#placePk|Hoenn|Cascate Meteora|Caverna di Rocco|Smeraldo|42|Normale|Caverna|33, 35, 38, 40|65%|
+#placePk|Hoenn|Cascate Meteora|Caverna di Rocco|Smeraldo|338|Normale|Caverna|33, 35, 37, 39|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ROZA|41|Normale|Caverna|16-19|75%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ZA|337|Normale|Caverna|16-19|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|RO|338|Normale|Caverna|16-19|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ROZA|41|Normale|Gruppi di Pokémon|9|100%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ROZA|35|Normale|Caverna (NaviDex)|19|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ROZA|621|Normale|Caverna (NaviDex)|19|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso|ROZA|633|Normale|Caverna|19 (NaviDex)|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|41|Normale|Surf|15, 20|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|42|Normale|Surf|25|4%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|RO|338|Normale|Surf|20, 25|16%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ZA|337|Normale|Surf|20, 25|16%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Ingresso (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ROZA|42|Normale|Caverna|37-40|75%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ZA|337|Normale|Caverna|37-40|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|RO|338|Normale|Caverna|37-40|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ROZA|41|Normale|Gruppi di Pokémon|20|100%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ROZA|35|Normale|Caverna (NaviDex)|40|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ROZA|621|Normale|Caverna (NaviDex)|40|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S|ROZA|633|Normale|Caverna|40 (NaviDex)|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|42|Normale|Surf|30, 35|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|RO|338|Normale|Surf|30, 35, 40|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ZA|337|Normale|Surf|30, 35, 40|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|118|Normale|Amo Vecchio|10|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|129|Normale|Amo Vecchio|5, 10|65%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|118|Normale|Amo Buono|30|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|129|Normale|Amo Buono|30|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|339|Normale|Amo Buono|30|5%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|339|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Cascate Meteora|Piano 1, Interno & Piano 1S (Acqua)|ROZA|340|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|42|Normale|Caverna|37-40|40%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ZA|337|Normale|Caverna|37-40|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|RO|338|Normale|Caverna|37-40|25%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|371|Normale|Caverna|37-40|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|41|Normale|Gruppi di Pokémon|20|95%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|371|Normale|Gruppi di Pokémon|20|5%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|35|Normale|Caverna (NaviDex)|40|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|621|Normale|Caverna (NaviDex)|40|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore|ROZA|633|Normale|Caverna (NaviDex)|40|??%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|42|Normale|Surf|30, 35|80%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|RO|338|Normale|Surf|30, 35, 40|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ZA|337|Normale|Surf|30, 35, 40|20%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|118|Normale|Amo Vecchio|10|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|129|Normale|Amo Vecchio|5, 10|65%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|118|Normale|Amo Buono|30|35%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|129|Normale|Amo Buono|30|60%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|339|Normale|Amo Buono|30|5%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|339|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Cascate Meteora|Piano 1S, stanza posteriore (Acqua)|ROZA|340|Normale|Super Amo|40|5%|
+
+#placePk|Hoenn|Tomba Antica||RubinoZaffiroSmeraldo|379|Normale|Speciale|40|Uno|
+#placePk|Hoenn|Tomba Antica||ROZA|379|Normale|Speciale|40|uno|
+
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|25|Normale|Erba|25, 27|5%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|43|Normale|Erba|25, 27|40%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|44|Normale|Erba|25|5%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|84|Normale|Erba|25|10%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|177|Normale|Erba|25|10%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|203|Normale|Erba|25, 27|20%|
+#placePk|Hoenn|Zona Safari|Area 1|RubinoZaffiroSmeraldo|202|Normale|Erba|27, 29|10%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|25|Normale|Erba|25, 27|5%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|43|Normale|Erba|25, 27|40%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|44|Normale|Erba|25|5%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|84|Normale|Erba|27|10%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|177|Normale|Erba|25|10%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|203|Normale|Erba|25, 27|20%|
+#placePk|Hoenn|Zona Safari|Area 2|RubinoZaffiroSmeraldo|202|Normale|Erba|27, 29|10%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|54|Normale|Surf|20-35|100%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|40%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Super Amo|25-35|80%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|RubinoZaffiroSmeraldo|119|Normale|Super Amo|25-40|20%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|43|Normale|Erba|27, 29|30%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|44|Normale|Erba|29, 31|15%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|84|Normale|Erba|27, 29|15%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|85|Normale|Erba|29, 31|5%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|111|Normale|Erba|27, 29|30%|
+#placePk|Hoenn|Zona Safari|Area 3|RubinoZaffiroSmeraldo|127|Normale|Erba|27, 29|5%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|54|Normale|Surf|20-35|95%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|55|Normale|Surf|25-40|5%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|40%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Super Amo|25-35|80%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|RubinoZaffiroSmeraldo|119|Normale|Super Amo|25-40|20%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|43|Normale|Erba|27-29|30%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|44|Normale|Erba|29, 31|15%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|177|Normale|Erba|27, 29|15%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|178|Normale|Erba|29, 31|5%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|214|Normale|Erba|27, 29|5%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|231|Normale|Erba|27, 29|30%|
+#placePk|Hoenn|Zona Safari|Area 4|RubinoZaffiroSmeraldo|74|Normale|Spaccaroccia|5-30|100%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|163|Normale|Erba|35|5%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|167|Normale|Erba|33|10%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|179|Normale|Erba|34, 36|30%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|190|Normale|Erba|34|10%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|191|Normale|Erba|33, 35|30%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|207|Normale|Erba|37, 40|5%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|209|Normale|Erba|34|5%|
+#placePk|Hoenn|Zona Safari|Area 5|Smeraldo|234|Normale|Erba|36, 39|5%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|183|Normale|Surf|25-35|39%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|194|Normale|Surf|25-30|60%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|195|Normale|Surf|35-40|1%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|118|Normale|Amo Vecchio|25-30|30%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|129|Normale|Amo Vecchio|25-30|70%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|118|Normale|Amo Buono|25-30|20%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|129|Normale|Amo Buono|25-30|60%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|223|Normale|Amo Buono|30-35|20%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|118|Normale|Super Amo|25-30|40%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|223|Normale|Super Amo|25-35|59%|
+#placePk|Hoenn|Zona Safari|Area 5 (Acqua)|Smeraldo|224|Normale|Super Amo|35-40|1%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|163|Normale|Erba|35|5%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|165|Normale|Erba|33|10%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|190|Normale|Erba|33, 35|30%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|191|Normale|Erba|34|10%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|204|Normale|Erba|34|5%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|216|Normale|Erba|34, 36|30%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|228|Normale|Erba|36, 39|5%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|241|Normale|Erba|37, 40|5%|
+#placePk|Hoenn|Zona Safari|Area 6|Smeraldo|213|Normale|Spaccaroccia|20-40|100%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|25|Normale|Erba|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|44|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|54|Normale|Erba|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|84|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|44|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|54|Normale|Erba alta|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|84|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|203|Normale|Erba alta|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|43|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|54|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|84|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|14|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|17|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 1|ROZA|427|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|54|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|129|Normale|Amo Buono|25|65%|
+#placePk|Hoenn|Zona Safari|Area 1 (Acqua)|ROZA|119|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|44|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|54|Normale|Erba|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|84|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|178|Normale|Erba|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|44|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|54|Normale|Erba alta|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|84|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|202|Normale|Erba alta|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|43|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|54|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|84|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|14|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|17|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 2|ROZA|427|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|54|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|129|Normale|Amo Buono|25|65%|
+#placePk|Hoenn|Zona Safari|Area 2 (Acqua)|ROZA|119|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|44|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|54|Normale|Erba|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|84|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|111|Normale|Erba|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|44|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|54|Normale|Erba alta|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|84|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|214|Normale|Erba alta|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|43|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|54|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|84|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|14|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|17|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 3|ROZA|427|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|54|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|129|Normale|Amo Buono|25|65%|
+#placePk|Hoenn|Zona Safari|Area 3 (Acqua)|ROZA|119|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|44|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|54|Normale|Erba|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|84|Normale|Erba|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|232|Normale|Erba|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|44|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|54|Normale|Erba alta|27, 29|20%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|84|Normale|Erba alta|28-30|30%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|127|Normale|Erba alta|28, 30|20%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|43|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|54|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|84|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|14|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|17|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 4|ROZA|427|Normale|Erba (NaviDex)|30|??%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|54|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|129|Normale|Amo Buono|25|65%|
+#placePk|Hoenn|Zona Safari|Area 4 (Acqua)|ROZA|119|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Monte Pira|Interno|ZaffiroSmeraldo|353|Normale|1-3 Piano|22-29|100%|
+#placePk|Hoenn|Monte Pira|Interno|Rubino|355|Normale|1-3 Piano|22-29|100%|
+#placePk|Hoenn|Monte Pira|Interno|Rubino|353|Normale|4-6 Piano|25, 27, 29|10%|
+#placePk|Hoenn|Monte Pira|Interno|ZaffiroSmeraldo|353|Normale|4-6 Piano|22-29|90%|
+#placePk|Hoenn|Monte Pira|Interno|Rubino|355|Normale|4-6 Piano|22-29|90%|
+#placePk|Hoenn|Monte Pira|Interno|ZaffiroSmeraldo|355|Normale|4-6 Piano|25, 27, 29|10%|
+#placePk|Hoenn|Monte Pira|Esterno|RubinoZaffiro|37|Normale|Erba|25, 27, 29|20%|
+#placePk|Hoenn|Monte Pira|Esterno|Smeraldo|37|Normale|Erba|25, 27, 29|30%|
+#placePk|Hoenn|Monte Pira|Esterno|RubinoZaffiroSmeraldo|278|Normale|Erba|26-28|10%|
+#placePk|Hoenn|Monte Pira|Esterno|RubinoZaffiro|307|Normale|Erba|27, 29|30%|
+#placePk|Hoenn|Monte Pira|Esterno|Rubino|355|Normale|Erba|27-29|40%|
+#placePk|Hoenn|Monte Pira|Esterno|Zaffiro|353|Normale|Erba|27-29|40%|
+#placePk|Hoenn|Monte Pira|Esterno|Smeraldo|353|Normale|Erba|27-29|60%|
+#placePk|Hoenn|Monte Pira|Cima|Rubino|353|Normale|Erba|26, 28, 30|13%|
+#placePk|Hoenn|Monte Pira|Cima|ZaffiroSmeraldo|353|Normale|Erba|24-30|85%|
+#placePk|Hoenn|Monte Pira|Cima|Rubino|355|Normale|Erba|24-30|85%|
+#placePk|Hoenn|Monte Pira|Cima|ZaffiroSmeraldo|355|Normale|Erba|26, 28, 30|13%|
+#placePk|Hoenn|Monte Pira|Cima|RubinoZaffiroSmeraldo|358|Normale|Erba|28|2%|
+#placePk|Hoenn|Monte Pira|Interno|ROZA|353|Normale|1-4 Piano|28-31|65%|
+#placePk|Hoenn|Monte Pira|Interno|ROZA|355|Normale|4-6 Piano|28-31|35%|
+#placePk|Hoenn|Monte Pira|Interno|ROZA|353|Normale|Gruppi di Pokémon|15|100%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|37|Normale|Erba|29, 31|15%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|278|Normale|Erba|30|5%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|307|Normale|Erba|28-31|40%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|353|Normale|Erba|28-31|40%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|37|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|307|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|353|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|58|Normale|Erba (NaviDex)|31|??%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|436|Normale|Erba (NaviDex)|31|??%|
+#placePk|Hoenn|Monte Pira|Esterno|ROZA|605|Normale|Erba (NaviDex)|31|??%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|37|Normale|Erba|29, 31|15%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|307|Normale|Erba|28-31|40%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|353|Normale|Erba|28-31|40%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|358|Normale|Erba|30|5%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|37|Normale|Gruppi di Pokémon|15|5%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|307|Normale|Gruppi di Pokémon|15|35%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|353|Normale|Gruppi di Pokémon|15|60%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|58|Normale|Erba (NaviDex)|31|??%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|436|Normale|Erba (NaviDex)|31|??%|
+#placePk|Hoenn|Monte Pira|Cima|ROZA|605|Normale|Erba (NaviDex)|31|??%|
+
+#placePk|Hoenn|Grotta Ondosa||RubinoZaffiroSmeraldo|41|Normale|Caverna|26, 28, 30, 32|45%|
+#placePk|Hoenn|Grotta Ondosa||RubinoZaffiroSmeraldo|42|Normale|Caverna|32|5%|
+#placePk|Hoenn|Grotta Ondosa||RubinoZaffiroSmeraldo|363|Normale|Caverna|26, 28, 30, 32|50%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|41|Normale|Surf|5-35|30%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|363|Normale|Surf|25-35|10%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Grotta Ondosa|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|RubinoZaffiroSmeraldo|41|Normale|Caverna|26, 28, 30|40%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|RubinoZaffiroSmeraldo|42|Normale|Caverna|30, 32|5%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|RubinoZaffiroSmeraldo|361|Normale|Caverna|26, 28, 30|10%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|RubinoZaffiroSmeraldo|363|Normale|Caverna|26, 28, 30, 32|45%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|42|Normale|Caverna|31-34|40%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|363|Normale|Caverna|31|20%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|364|Normale|Caverna|32-34|40%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|41|Normale|Gruppi di Pokémon|17|40%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|363|Normale|Gruppi di Pokémon|17|60%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|87|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|225|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea|ROZA|613|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|42|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|73|Normale|Surf|30|15%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Grotta Ondosa|Alta Marea (Acqua)|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|42|Normale|Caverna|31-34|40%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|361|Normale|Caverna|34|5%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|363|Normale|Caverna|31|20%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|364|Normale|Caverna|32-34|35%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|41|Normale|Gruppi di Pokémon|17|60%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|363|Normale|Gruppi di Pokémon|17|40%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|87|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|225|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|613|Normale|Caverna (NaviDex)|34|??%|
+#placePk|Hoenn|Grotta Ondosa|Bassa Marea|ROZA|75|Normale|Spaccaroccia|31-34|100%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|42|Normale|Caverna|31-34|20%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|361|Normale|Caverna|31-34|40%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|363|Normale|Caverna|31|10%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|364|Normale|Caverna|32-34|30%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|41|Normale|Gruppi di Pokémon|17|60%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|361|Normale|Gruppi di Pokémon|17|5%|
+#placePk|Hoenn|Grotta Ondosa|Stanza Ghiacciata|ROZA|363|Normale|Gruppi di Pokémon|17|35%|
+
+#placePk|Hoenn|Rifugio Idro||ZaffiroSmeraldo|101|Normale|Finta Poké Ball|30|Due|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|72|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|120|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Rifugio Idro|Acqua|ZA|320|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Rifugio Idro||ZA|101|Normale|Finta Poké Ball|40|Due|
+
+#placePk|Hoenn|Rifugio Magma||Smeraldo|74|Normale|Caverna|27-30|55%|
+#placePk|Hoenn|Rifugio Magma||Smeraldo|75|Normale|Caverna|30-33|15%|
+#placePk|Hoenn|Rifugio Magma||Smeraldo|324|Normale|Caverna|28, 30|30%|
+#placePk|Hoenn|Rifugio Magma||Rubino|101|Normale|Finta Poké Ball|30|Due|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|72|Normale|Surf|20, 25, 30|100%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|120|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Rifugio Magma|Acqua|RO|320|Normale|Super Amo|30, 35|95%|
+#placePk|Hoenn|Rifugio Magma||RO|101|Normale|Finta Poké Ball|40|Due|
+
+#placePk|Hoenn|Antro Abissale||RubinoZaffiroSmeraldo|41|Normale|Caverna|28-35|90%|
+#placePk|Hoenn|Antro Abissale||RubinoZaffiroSmeraldo|42|Normale|Caverna|33-36|10%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|41|Normale|Surf|5-35|35%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|42|Normale|Surf|30-35|5%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|72|Normale|Surf|5-35|60%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|72|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|320|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Antro Abissale|Acqua|RubinoZaffiroSmeraldo|320|Normale|Super Amo|20-45|100%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|42|Normale|Surf|25, 30, 35|55%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|73|Normale|Surf|30, 35|45%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|72|Normale|Amo Vecchio|10|35%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|129|Normale|Amo Vecchio|5, 10|65%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|72|Normale|Amo Buono|30|35%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|129|Normale|Amo Buono|30|60%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|320|Normale|Amo Buono|30|5%|
+#placePk|Hoenn|Antro Abissale|Entrata (Acqua)|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 1,2 e 4|ROZA|42|Normale|Caverna|33-36|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 1,2 e 4|ROZA|41|Normale|Gruppi di Pokémon|18|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 1,2 e 4|ROZA|75|Normale|Spaccaroccia|33-36|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6|ROZA|42|Normale|Caverna|33-36|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6|ROZA|41|Normale|Gruppi di Pokémon|18|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|42|Normale|Surf|25, 30, 35|35%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|73|Normale|Surf|25, 30|65%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|129|Normale|Amo Vecchio|10|65%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Antro Abissale|Stanze 5 e 6 (Acqua)|ROZA|320|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 3, 7, 8 e 9|ROZA|42|Normale|Caverna|33-36|100%|
+#placePk|Hoenn|Antro Abissale|Stanze 3, 7, 8 e 9|ROZA|41|Normale|Gruppi di Pokémon|18|100%|
+
+#placePk|Hoenn|Grotta dei Tempi|Ingresso|RubinoZaffiroSmeraldo|41|Normale|Grotta|28-35|90%|
+#placePk|Hoenn|Grotta dei Tempi|Ingresso|RubinoZaffiroSmeraldo|42|Normale|Grotta|33-36|10%|
+#placePk|Hoenn|Grotta dei Tempi|Piano terra e sotterranei 1 e 2|RubinoZaffiroSmeraldo|41|Normale|Grotta|30-34|60%|
+#placePk|Hoenn|Grotta dei Tempi|Piano terra e sotterranei 1 e 2|RubinoZaffiroSmeraldo|42|Normale|Grotta|33-36|10%|
+#placePk|Hoenn|Grotta dei Tempi|Piano terra e sotterranei 1 e 2|ZaffiroSmeraldo|302|Normale|Grotta|30-34|30%|
+#placePk|Hoenn|Grotta dei Tempi|Piano terra e sotterranei 1 e 2|Rubino|303|Normale|Grotta|30-34|30%|
+#placePk|Hoenn|Grotta dei Tempi|Piano sotterraneo 3|Zaffiro|382|Normale|Speciale|45|Unico|
+#placePk|Hoenn|Grotta dei Tempi|Piano sotterraneo 3|Rubino|383|Normale|Speciale|45|Unico|
+#placePk|Hoenn|Grotta dei Tempi||ROZA|42|Normale|Caverna|33-36|69%|
+#placePk|Hoenn|Grotta dei Tempi||ZA|302|Normale|Caverna|33-36|31%|
+#placePk|Hoenn|Grotta dei Tempi||RO|303|Normale|Caverna|33-36|31%|
+#placePk|Hoenn|Grotta dei Tempi||ROZA|41|Normale|Gruppi di Pokémon|18|100%|
+#placePk|Hoenn|Grotta dei Tempi||ZA|382|A|Speciale|45|Uno, ricompare se non si cattura dopo aver battuto il campione|
+#placePk|Hoenn|Grotta dei Tempi||RO|383|A|Speciale|45|Uno, ricompare se non si cattura dopo aver battuto il campione|
+
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|RubinoZaffiro|42|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Smeraldo|42|Normale|Edificio|34-35|30%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Zaffiro|302|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Smeraldo|302|Normale|Edificio|33-34|30%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Rubino|303|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|RubinoZaffiro|344|Normale|Edificio|47-56|25%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Smeraldo|344|Normale|Edificio|36-38|25%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Zaffiro|354|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Smeraldo|354|Normale|Edificio|37-38|15%|
+#placePk|Hoenn|Torre dei Cieli|Piano Terra|Rubino|356|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|RubinoZaffiro|42|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Smeraldo|42|Normale|Edificio|34-35|30%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Zaffiro|302|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Smeraldo|302|Normale|Edificio|33-34|30%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Rubino|303|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|RubinoZaffiro|344|Normale|Edificio|47-56|25%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Smeraldo|344|Normale|Edificio|36-38|25%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Zaffiro|354|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Smeraldo|354|Normale|Edificio|37-38|15%|
+#placePk|Hoenn|Torre dei Cieli|Secondo Piano|Rubino|356|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|RubinoZaffiro|42|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Smeraldo|42|Normale|Edificio|34-35|30%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Zaffiro|302|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Smeraldo|302|Normale|Edificio|33-34|30%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Rubino|303|Normale|Edificio|48-56|30%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|RubinoZaffiro|334|Normale|Edificio|54-60|6%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Smeraldo|334|Normale|Edificio|38-39|6%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|RubinoZaffiro|344|Normale|Edificio|48-56|19%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Smeraldo|344|Normale|Edificio|36-38|19%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Zaffiro|354|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Smeraldo|354|Normale|Edificio|37-38|15%|
+#placePk|Hoenn|Torre dei Cieli|Quarto Piano|Rubino|356|Normale|Edificio|48-56|15%|
+#placePk|Hoenn|Torre dei Cieli|Cima|RubinoZaffiroSmeraldo|384|Normale|Speciale|70|Solo uno|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|42|Normale|1P-5P|44-46|30%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|168|Normale|1P-5P|44-46|30%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ZA|302|Normale|1P-5P|44-46|10%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|RO|303|Normale|1P-5P|44-46|10%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|344|Normale|1P-5P|44-46|30%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|42|Normale|Gruppi di Pokémon|23|60%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|168|Normale|Gruppi di Pokémon|23|35%|
+#placePk|Hoenn|Torre dei Cieli|1 Piano- 5 Piano|ROZA|333|Normale|Gruppi di Pokémon|23|5%|
+#placePk|Hoenn|Torre dei Cieli|Cima|ROZA|384|Normale|Speciale|70|Uno, cattura obbligatoria per procedere con la storia|
+#placePk|Hoenn|Torre dei Cieli|Cima|ROZA|386|Normale|Speciale|80|Uno, se non catturato nello spazio, ricompare sulla Cima della Torre dopo aver battuto la lega la seconda volta|
+
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|41|Normale|Caverna|36|10%|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|42|Normale|Caverna|38, 40|25%|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|293|Normale|Caverna|36|5%}}|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|294|Normale|Caverna|40|10%}}|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|296|Normale|Caverna|36|10%|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|297|Normale|Caverna|38, 40|25%|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|304|Normale|Caverna|36|5%|
+#placePk|Hoenn|Via Vittoria|Piano 1|RubinoZaffiroSmeraldo|305|Normale|Caverna|40|10%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiroSmeraldo|42|Normale|Caverna|38, 40, 42|35%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiroSmeraldo|297|Normale|Caverna|38, 40, 42|35%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|Smeraldo|303|Normale|Caverna|38|5%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiro|305|Normale|Caverna|40, 42|15%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|Smeraldo|305|Normale|Caverna|40, 42|25%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiro|307|Normale|Caverna|38|5%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiro|308|Normale|Caverna|40|10%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiroSmeraldo|74|Normale|Spaccaroccia|30-40|70%|
+#placePk|Hoenn|Via Vittoria|Piano 1S|RubinoZaffiroSmeraldo|75|Normale|Spaccaroccia|35-40|30%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|RubinoZaffiroSmeraldo|42|Normale|Caverna|40, 42, 44|35%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|ZaffiroSmeraldo|302|Normale|Caverna|40, 42, 44|35%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|Rubino|303|Normale|Caverna|40, 42, 44|35%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|Smeraldo|303|Normale|Caverna|42, 44|5%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|RubinoZaffiro|305|Normale|Caverna|40, 42, 44|15%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|Smeraldo|305|Normale|Caverna|40, 42, 44|25%|
+#placePk|Hoenn|Via Vittoria|Piano 2S|RubinoZaffiro|308|Normale|Caverna|40, 42, 44|15%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|42|Normale|Surf|25-40|100%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Vecchio|5-10|30%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Vecchio|5-10|70%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|118|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|129|Normale|Amo Buono|10-30|60%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Amo Buono|10-30|20%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|339|Normale|Super Amo|25-35|80%|
+#placePk|Hoenn|Via Vittoria|Piano 2S (Acqua)|RubinoZaffiroSmeraldo|340|Normale|Super Amo|30-45|20%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|42|Normale|Caverna|37, 39|20%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|294|Normale|Caverna|37, 39|20%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|297|Normale|Caverna|38, 40|15%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ZA|302|Normale|Caverna|40|10%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|RO|303|Normale|Caverna|40|10%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|305|Normale|Caverna|37, 39|20%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|308|Normale|Caverna|38, 40|15%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|41|Normale|Gruppi di Pokémon|20|60%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|294|Normale|Gruppi di Pokémon|20|5%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S|ROZA|304|Normale|Gruppi di Pokémon|20|35%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|42|Normale|Surf|30, 40|35%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|72|Normale|Surf|25|50%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|73|Normale|Surf|35|15%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|72|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|320|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|370|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|320|Normale|Super Amo|30, 40|40%|
+#placePk|Hoenn|Via Vittoria|Entrata, Piani 1 e 1S (Acqua)|ROZA|370|Normale|Super Amo|35|60%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|42|Normale|Surf|25, 30, 35, 40|100%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Via Vittoria|Piano 2 (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+
+#placePk|Hoenn|Grotta Artistica||Smeraldo|235|Normale|Grotta|40-50|100%|
+
+#placePk|Hoenn|Isola Miraggio||RubinoZaffiroSmeraldo|360|Normale|Erba|5, 10, 15, 20, 25, 30, 35, 40, 45, 50|100%|
+
+#placePk|Hoenn|Isola Remota||RubinoSmeraldo|380|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Isola Remota||ZaffiroSmeraldo|381|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Isola Remota||RO|380|Normale|Speciale|30|Uno|
+#placePk|Hoenn|Isola Remota||ZA|381|Normale|Speciale|30|Uno|
+
+#placePk|Hoenn|Grotta Mare||Smeraldo|382|Normale|Speciale|70|Unico|
+
+#placePk|Hoenn|Grotta Terra||Smeraldo|383|Normale|Speciale|70|Unico|
+
+#placePk|Hoenn|Parco Lotta||Smeraldo|185|Normale|Speciale|40|Uno|
+#placePk|Hoenn|Parco Lotta||Smeraldo|52|Normale|Scambio con Meowth|Lo stesso di Meowth|Uno|
+
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|73|Normale|Surf|35|50%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|226|Normale|Surf|40|1%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|279|Normale|Surf|35-40|19%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|458|Normale|Surf|35|30%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|129|Normale|Amo Vecchio|10-15|65%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|72|Normale|Amo Vecchio|10-15|35%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|72|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|223|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|223|Normale|Super Amo|30-35|95%|
+#placePk|Hoenn|Resort Lotta|Acqua|ROZA|224|Normale|Super Amo|40|5%|
+#placePk|Hoenn|Resort Lotta||ROZA|319|Normale|Regalo|40|Uno|
+#placePk|Hoenn|Resort Lotta||ROZA|323|Normale|Regalo|40|Uno|
+
+#placePk|Hoenn|Isola Suprema||Smeraldo|151|Normale|Mappa Stinta (Evento)|30|Uno|
+
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|Normale|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|B|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|C|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|D|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|E|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|F|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|G|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|H|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|I|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|J|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|K|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|L|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|M|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|N|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|O|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|P|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|Q|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|R|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|S|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|T|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|U|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|V|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|W|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|X|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|Y|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|Z|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|PI|Grotta|36-38|3.6%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 107|ROZA|201|PE|Grotta|36-38|3.6%|
+
+#placePk|Hoenn|Grotte Miraggio|A nord di Brunifoglia|ROZA|79|Normale|Grotta|36-38|40%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Brunifoglia|ROZA|602|Normale|Grotta|36-38|60%|
+
+#placePk|Hoenn|Grotte Miraggio|A ovest del Percorso 115|ROZA|599|Normale|Grotta|36-38|60%|
+#placePk|Hoenn|Grotte Miraggio|A ovest del Percorso 115|ROZA|602|Normale|Grotta|36-38|40%|
+#placePk|Hoenn|Grotte Miraggio|A ovest del Percorso 115|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Grotte Miraggio|A ovest del Percorso 115|ROZA|525|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|95|Normale|Grotta|36-38|10%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|530|Normale|Grotta|36-38|30%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|599|Normale|Grotta|36-38|30%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|602|Normale|Grotta|36-38|30%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Grotte Miraggio|A nord di Forestopoli|ROZA|525|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 124|ROZA|563|Normale|Grotta|36-38|40%|
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 124|ROZA|599|Normale|Grotta|36-38|60%|
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 124|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 124|ROZA|525|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Grotte Miraggio|A sudest del Percorso 129|ROZA|95|Normale|Grotta|36-38|40%|
+#placePk|Hoenn|Grotte Miraggio|A sudest del Percorso 129|ROZA|602|Normale|Grotta|36-38|60%|
+#placePk|Hoenn|Grotte Miraggio|A sudest del Percorso 129|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Grotte Miraggio|A sudest del Percorso 129|ROZA|525|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 131|ROZA|79|Normale|Grotta|36-38|10%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 131|ROZA|563|Normale|Grotta|36-38|30%|
+#placePk|Hoenn|Grotte Miraggio|A sud del Percorso 131|ROZA|602|Normale|Grotta|36-38|60%|
+
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 132|ROZA|132|Normale|Grotta|36-38|40%|
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 132|ROZA|530|Normale|Grotta|36-38|30%|
+#placePk|Hoenn|Grotte Miraggio|A nord del Percorso 132|ROZA|602|Normale|Grotta|36-38|30%|
+
+#placePk|Hoenn|Selve Miraggio|A ovest di Percorso 105|ROZA|205|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Selve Miraggio|A ovest di Percorso 105|ROZA|440|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Selve Miraggio|A ovest di Percorso 105|ROZA|75|Normale|Spaccaroccia|33-38|100%|
+
+#placePk|Hoenn|Selve Miraggio|A sud del Percorso 109|ROZA|191|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Selve Miraggio|A sud del Percorso 109|ROZA|531|Normale|Erba|36-38|90%|
+
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 111|ROZA|402|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 111|ROZA|636|Normale|Erba|36-38|40%|
+
+#placePk|Hoenn|Selve Miraggio|A ovest del Percorso 114|ROZA|114|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A ovest del Percorso 114|ROZA|191|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A ovest del Percorso 114|ROZA|432|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A ovest del Percorso 114|ROZA|548|Normale|Erba|36-38|10%|
+
+#placePk|Hoenn|Selve Miraggio|A nord di Porto Alghepoli|ROZA|114|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A nord di Porto Alghepoli|ROZA|191|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A nord di Porto Alghepoli|ROZA|421|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Selve Miraggio|A nord di Porto Alghepoli|ROZA|432|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 124|ROZA|37|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 124|ROZA|114|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 124|ROZA|191|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A nord del Percorso 124|ROZA|432|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Selve Miraggio|A est di Verdeazzupoli|ROZA|114|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A est di Verdeazzupoli|ROZA|191|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A est di Verdeazzupoli|ROZA|431|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Selve Miraggio|A est di Verdeazzupoli|ROZA|572|Normale|Erba|36-38|10%|
+
+#placePk|Hoenn|Selve Miraggio|A sud del Percorso 132|ROZA|191|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Selve Miraggio|A sud del Percorso 132|ROZA|531|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Selve Miraggio|A sud del Percorso 132|ROZA|548|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Isole Miraggio|A ovest del Percorso 104|ROZA|49|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A ovest del Percorso 104|ROZA|178|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A ovest del Percorso 104|ROZA|523|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A ovest del Percorso 104|ROZA|555|Normale|Erba|36-38|10%|
+
+#placePk|Hoenn|Isole Miraggio|A ovest di Bluruvia|ROZA|49|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A ovest di Bluruvia|ROZA|114|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Isole Miraggio|A ovest di Bluruvia|ROZA|178|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A ovest di Bluruvia|ROZA|523|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 113|ROZA|555|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 113|ROZA|636|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 124|ROZA|49|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 124|ROZA|53|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 124|ROZA|178|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 124|ROZA|523|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 125|ROZA|137|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Isole Miraggio|A nord del Percorso 125|ROZA|432|Normale|Erba|36-38|60%|
+
+#placePk|Hoenn|Isole Miraggio|A sud di Orocea|ROZA|178|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Isole Miraggio|A sud di Orocea|ROZA|531|Normale|Erba|36-38|90%|
+#placePk|Hoenn|Isole Miraggio|A sud di Orocea|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Isole Miraggio|A sud di Orocea|ROZA|688|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|132|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|517|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|49|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|178|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|523|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|556|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Isole Miraggio|A sud del Percorso 132|ROZA|688|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Monti Miraggio|A ovest del Percorso 104|ROZA|205|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A ovest del Percorso 104|ROZA|232|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A ovest del Percorso 104|ROZA|234|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Monti Miraggio|A ovest del Percorso 104|ROZA|402|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Monti Miraggio|A nord di Porto Alghepoli|ROZA|205|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nord di Porto Alghepoli|ROZA|232|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nord di Porto Alghepoli|ROZA|402|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nord di Porto Alghepoli|ROZA|627|Normale|Erba|36-38|10%|
+
+#placePk|Hoenn|Monti Miraggio|A nord del Percorso 125|ROZA|114|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Monti Miraggio|A nord del Percorso 125|ROZA|440|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nord del Percorso 125|ROZA|531|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Monti Miraggio|A nord del Percorso 125|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Monti Miraggio|A nord del Percorso 125|ROZA|558|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Monti Miraggio|A nordest del Percorso 125|ROZA|205|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nordest del Percorso 125|ROZA|232|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nordest del Percorso 125|ROZA|402|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A nordest del Percorso 125|ROZA|629|Normale|Erba|36-38|10%|
+
+#placePk|Hoenn|Monti Miraggio|A est del Percorso 125|ROZA|240|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Monti Miraggio|A est del Percorso 125|ROZA|555|Normale|Erba|36-38|60%|
+
+#placePk|Hoenn|Monti Miraggio|A sudest del Percorso 129|ROZA|137|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Monti Miraggio|A sudest del Percorso 129|ROZA|178|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Monti Miraggio|A sudest del Percorso 129|ROZA|517|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A sudest del Percorso 129|ROZA|75|Normale|Spaccaroccia|35-38|85%|
+#placePk|Hoenn|Monti Miraggio|A sudest del Percorso 129|ROZA|558|Normale|Spaccaroccia|37|15%|
+
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 129|ROZA|239|Normale|Erba|36-38|40%|
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 129|ROZA|523|Normale|Erba|36-38|60%|
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 131|ROZA|203|Normale|Erba|36-38|10%|
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 131|ROZA|205|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 131|ROZA|232|Normale|Erba|36-38|30%|
+#placePk|Hoenn|Monti Miraggio|A sud del Percorso 131|ROZA|402|Normale|Erba|36-38|30%|
+
+#placePk|Hoenn|Piana Senza Nome||ROZA|638|Normale|Speciale|50|Uno, di Domenica, Mercoledì e Venerdì|
+#placePk|Hoenn|Piana Senza Nome||ROZA|639|Normale|Speciale|50|Uno, di Martedì e Sabato|
+#placePk|Hoenn|Piana Senza Nome||ROZA|640|Normale|Speciale|50|Uno, di Lunedì e Giovedì|
+
+#placePk|Hoenn|Caverna Ignota||ROZA|480|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Caverna Ignota||ROZA|482|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Caverna Ignota||ROZA|481|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Grotta Sfuggente||RO|643|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Grotta Sfuggente||ZA|644|Normale|Speciale|50|Uno|
+
+#placePk|Hoenn|Isola Arcodiluna||ROZA|488|Normale|Speciale|50|Uno|
+
+#placePk|Hoenn|Fossa Informe||ROZA|646|Normale|Speciale|50|Uno|
+
+#placePk|Hoenn|Foresta Vergine||ROZA|243|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Foresta Vergine||ROZA|244|Normale|Speciale|50|Uno|
+#placePk|Hoenn|Foresta Vergine||ROZA|245|Normale|Speciale|50|Uno|
+
+#placePk|Hoenn|Istituto Meteo||RubinoZaffiroSmeraldo|351|Normale|Regalo|25|Uno|
+#placePk|Hoenn|Istituto Meteo||ROZA|351|Normale|Regalo|30|Uno|
+
+#placePk|Hoenn|Grottino Solare|Entrata|ROZA|42|Normale|Caverna|26-29|100%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|41|Normale|Surf|20|50%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|42|Normale|Surf|25, 30|50%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|129|Normale|Amo Vecchio|10, 15|65%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Grottino Solare|Entrata (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Grottino Solare|Primo Piano|ROZA|42|Normale|Caverna|26-29|100%|
+#placePk|Hoenn|Grottino Solare|Primo Piano|ROZA|41|Normale|Gruppi di Pokémon|14|100%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|41|Normale|Surf|20|50%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|42|Normale|Surf|25, 30|50%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|118|Normale|Amo Vecchio|5|35%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|129|Normale|Amo Vecchio|10|65%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|118|Normale|Amo Buono|25|35%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|129|Normale|Amo Buono|25|60%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|339|Normale|Amo Buono|25|5%|
+#placePk|Hoenn|Grottino Solare|Primo Piano (Acqua)|ROZA|339|Normale|Super Amo|30, 35, 40|100%|
+#placePk|Hoenn|Grottino Solare|Secondo Piano|ROZA|42|Normale|Caverna|26-29|100%|
+#placePk|Hoenn|Grottino Solare|Secondo Piano|ROZA|41|Normale|Gruppi di Pokémon|14|100%|
+#placePk|Hoenn|Grottino Solare|Terzo Piano|ROZA|42|Normale|Caverna|26-29|100%|
+#placePk|Hoenn|Grottino Solare|Terzo Piano|ROZA|41|Normale|Gruppi di Pokémon|14|100%|
+#placePk|Hoenn|Grottino Solare|Terzo Piano|ROZA|485|Normale|Speciale|50|Uno|
+
+
 #placePk|Kalos|Borgo Bozzetto||XY|650|Normale|Scambio|5|Uno, dopo aver sconfitto i Superquattro se il giocatore ha iniziato con Fennekin ( scambio con uno qualsiasi)|
 #placePk|Kalos|Borgo Bozzetto||XY|653|Normale|Scambio|5|Uno, dopo aver sconfitto i Superquattro se il giocatore ha iniziato con Froakie ( scambio con uno qualsiasi)|
 #placePk|Kalos|Borgo Bozzetto||XY|656|Normale|Scambio|5|Uno, dopo aver sconfitto i Superquattro se il giocatore ha iniziato con Chespin ( scambio con uno qualsiasi)|

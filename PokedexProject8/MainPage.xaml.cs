@@ -20,31 +20,21 @@ namespace PokedexProject8
         {
             InitializeComponent();
 
-            string path = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\Evoluzioni.data";
-
-            if (File.Exists(path))
-                MessageBox.Show( "File trovato");
-            else
-                MessageBox.Show("File non trovato");
-
-            // Sample code to localize the ApplicationBar
-            //BuildLocalizedApplicationBar();
+            ProgramManager.Initialize();
         }
 
-        // Sample code for building a localized ApplicationBar
-        //private void BuildLocalizedApplicationBar()
-        //{
-        //    // Set the page's ApplicationBar to a new instance of ApplicationBar.
-        //    ApplicationBar = new ApplicationBar();
-
-        //    // Create a new button and set the text value to the localized string from AppResources.
-        //    ApplicationBarIconButton appBarButton = new ApplicationBarIconButton(new Uri("/Assets/AppBar/appbar.add.rest.png", UriKind.Relative));
-        //    appBarButton.Text = AppResources.AppBarButtonText;
-        //    ApplicationBar.Buttons.Add(appBarButton);
-
-        //    // Create a new menu item with the localized string from AppResources.
-        //    ApplicationBarMenuItem appBarMenuItem = new ApplicationBarMenuItem(AppResources.AppBarMenuItemText);
-        //    ApplicationBar.MenuItems.Add(appBarMenuItem);
-        //}
+        private void TextBlock_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            //string filePath = Windows.ApplicationModel.Package.Current.InstalledLocation.Path + @"\Files\IT\";
+            //string s = "Conta:\n";
+            //s += "Prog list:" + ProgramManager.pokemonList.Count.ToString() + "\n";
+            //s += "Evol list:" + EvolutionClassManager.ListaEvo.Count.ToString() + "\n";
+            //s += "Loca list:" + LocationClassManager.ListaLocation.Count.ToString() + "\n";
+            //s += "Poke list:" + PokemonClassManager.PokemonList.Count.ToString() + "\n";
+            //s += "PkPl list:" + PokemonPlaceClassManager.PlaceList.Count.ToString() + "\n";
+            //s += "Type list:" + TypeClassManager.ListaTipo.Count.ToString() + "\n";
+            //MessageBox.Show(s);
+            NavigationService.Navigate(new Uri("/PokemonListPage.xaml", UriKind.Relative));
+        }
     }
 }

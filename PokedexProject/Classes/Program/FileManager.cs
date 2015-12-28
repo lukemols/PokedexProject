@@ -42,12 +42,25 @@ namespace PokedexProject
                     continue;
                 }
 
-                if (line.Contains("#VERSION"))
+                else if (line.Contains("#VERSION"))
                 {
                     string[] version = line.Split('|');
                 }
 
-                if(line.Contains("#Pk"))
+                else if (line.Contains("#AO"))
+                {
+                    string[] l = line.Split('|');
+                    int ao = System.Convert.ToInt32(l[1]);
+                    Dex.AO = ao;
+                }
+
+                else if (line.Contains("PLAYER"))
+                {
+                    string[] l = line.Split('|');
+                    Dex.PlayerName = l[1];                  
+                }
+
+                else if (line.Contains("#Pk"))
                 {
                     string[] poke = line.Split('|');
                     int num = System.Convert.ToInt32(poke[1]);

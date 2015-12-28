@@ -26,10 +26,13 @@ namespace PokedexProject10
         public MainPage()
         {
             this.InitializeComponent();
-
+            
             ProgramManager.Initialize();
         }
-        
 
+        private void TextBlock_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -129,6 +129,9 @@
   <data name="PivotFilePageNewFile.Text" xml:space="preserve">
     <value>Nuovo File</value>
   </data>
+  <data name="PivotFilePageRecentFileBlock.Text" xml:space="preserve">
+    <value>File Recenti</value>
+  </data>
   <data name="PivotHomePage.Header" xml:space="preserve">
     <value>Pokédex</value>
   </data>
@@ -138,7 +141,16 @@
   <data name="PivotSearchPage.Header" xml:space="preserve">
     <value>Cerca</value>
   </data>
+  <data name="PivotSearchPageLocation.Text" xml:space="preserve">
+    <value>Luoghi</value>
+  </data>
+  <data name="PivotSearchPagePokedex.Text" xml:space="preserve">
+    <value>Pokémon</value>
+  </data>
   <data name="PivotSearchPageWelcome.Text" xml:space="preserve">
     <value>Clicca su Pokémon per vedere la lista dei Pokémon, su Regioni per vedere tutti i luoghi.</value>
+  </data>
+  <data name="PokeListTitle.Text" xml:space="preserve">
+    <value>Lista Pokémon</value>
   </data>
 </root>

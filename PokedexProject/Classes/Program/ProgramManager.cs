@@ -17,7 +17,9 @@ namespace PokedexProject
         static bool isModified;
         static public bool IsModified { get { return isModified; } }
 
-        static ObservableCollection<Pokemon> pokemonList;
+        private static ObservableCollection<Pokemon> pokemonList;
+
+        public static ObservableCollection<Pokemon> PokemonList;
 
         #region Operazioni di inizializzazione
 
@@ -97,6 +99,7 @@ namespace PokedexProject
                     last = p.Number;
                 }
             }
+            PokemonList = pokemonList;
         }
 
         #endregion

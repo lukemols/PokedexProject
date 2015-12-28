@@ -30,16 +30,26 @@ namespace PokedexProject
         static private List<PokeState> pokedex;
         static public List<PokeState> Pokedex { get { return pokedex; } }
 
+        static string playerName;
+        static public string PlayerName { get; set; }
+
+        static int ao;
+        static public int AO { get { return AO; } set { if (value < 10000 && value >= 0) ao = value; } }
+
         /// <summary>
         /// Metodo che crea un nuovo Dex a partire dalla generazione e dal gioco
         /// </summary>
         /// <param name="gen">Generazione</param>
         /// <param name="game">Gioco</param>
-        static public void CreateNewDex(int gen, string game)
+        /// <param name="name">Nome del giocatore, di default nullo</param>
+        /// <param name="ao">ID del giocatore, di default zero</param>
+        static public void CreateNewDex(int gen, string game, string name = "", int ao = 0)
         {
             generation = gen;
             Dex.game = GameClass.GetGameFromString(game);
             path = "";
+            playerName = name;
+            Dex.ao = ao;
             CreateDexList();
         }
 
