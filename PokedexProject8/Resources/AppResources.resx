@@ -170,4 +170,16 @@
   <data name="PokeListTitle" xml:space="preserve">
     <value>Lista Pokémon</value>
   </data>
+  <data name="PokemonPivotEvoPage" xml:space="preserve">
+    <value>Evoluzioni</value>
+  </data>
+  <data name="PokemonPivotInfoPage" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="PokemonPivotLocationPage" xml:space="preserve">
+    <value>Luoghi</value>
+  </data>
+  <data name="Form" xml:space="preserve">
+    <value>Forme</value>
+  </data>
 </root>

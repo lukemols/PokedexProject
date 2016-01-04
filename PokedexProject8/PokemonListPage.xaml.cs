@@ -18,5 +18,15 @@ namespace PokedexProject8
             InitializeComponent();
             PokemonListBox.ItemsSource = ProgramManager.PokemonList;
         }
+
+        private void PokemonListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (PokemonListBox.SelectedItem == null)
+                return;
+            Pokemon p = (Pokemon)PokemonListBox.SelectedItem;
+            PokemonListBox.SelectedItem = null;
+
+            NavigationService.Navigate(new Uri("/PokemonPage.xaml?id=" + p.Number, UriKind.Relative));
+        }
     }
 }

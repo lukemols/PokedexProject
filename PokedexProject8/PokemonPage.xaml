@@ -1,0 +1,103 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PokedexProject8.PokemonPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"    
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <Style x:Name="InfoTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="Margin" Value="12, 10, 0, 0"/>
+            <Setter Property="FontWeight" Value="Light" />
+        </Style>
+    </phone:PhoneApplicationPage.Resources>
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Pokédex Project 8.1" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="TitlePage" Text="Pokémon name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <phone:Pivot>
+                <!-- Pagina delle informazioni sul Pokémon -->
+                <phone:PivotItem x:Uid="PokemonPivotInfoPage"
+                     Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PokemonPivotInfoPage}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Immagine del Pokémon -->
+                        <Rectangle x:Name="PokemonImage" Height="240"
+                                   Width="240" />
+
+                        <StackPanel Orientation="Vertical" Grid.Column="1">
+                            <TextBlock x:Name="Number" Text="#000" Style="{StaticResource InfoTextBlockStyle}"/>
+                            <TextBlock x:Name="Weight" Text="1 kg" Style="{StaticResource InfoTextBlockStyle}"/>
+                            <TextBlock x:Name="Height" Text="1 m" Style="{StaticResource InfoTextBlockStyle}"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.ColumnSpan="2">
+                            <toolkit:ListPicker x:Name="FormListPicker"
+                                                Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.Form}"
+                                                FullModeHeader="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.Form}">
+                                <!-- Template per lista -->
+                                <toolkit:ListPicker.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Path=Form}" Margin="12 0 0 0"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                    </toolkit:ListPicker.ItemTemplate>
+                                    <!-- Template per lista in modalità full -->
+                                <toolkit:ListPicker.FullModeItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" Margin="16 21 0 20">
+                                            <TextBlock Text="{Binding Path=Form}" Margin="12 0 0 0"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </toolkit:ListPicker.FullModeItemTemplate>
+                            </toolkit:ListPicker>
+                        </StackPanel>
+                    </Grid>
+                    
+                </phone:PivotItem>
+                <!-- Pagina sulle evoluzioni del Pokémon -->
+                <phone:PivotItem x:Uid="PokemonPivotEvoPage"
+                     Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PokemonPivotEvoPage}">
+                </phone:PivotItem>
+
+                <!-- Pagina sui luoghi del Pokémon -->
+                <phone:PivotItem x:Uid="PokemonPivotLocationPage"
+                     Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PokemonPivotLocationPage}">
+                </phone:PivotItem>
+            </phone:Pivot>
+            
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

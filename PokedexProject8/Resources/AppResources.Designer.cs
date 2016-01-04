@@ -88,6 +88,15 @@ namespace PokedexProject8.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Forme.
+        /// </summary>
+        public static string Form {
+            get {
+                return ResourceManager.GetString("Form", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to File.
         /// </summary>
         public static string PivotFilePage {
@@ -192,6 +201,33 @@ namespace PokedexProject8.Resources {
         public static string PokeListTitle {
             get {
                 return ResourceManager.GetString("PokeListTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Evoluzioni.
+        /// </summary>
+        public static string PokemonPivotEvoPage {
+            get {
+                return ResourceManager.GetString("PokemonPivotEvoPage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Info.
+        /// </summary>
+        public static string PokemonPivotInfoPage {
+            get {
+                return ResourceManager.GetString("PokemonPivotInfoPage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Luoghi.
+        /// </summary>
+        public static string PokemonPivotLocationPage {
+            get {
+                return ResourceManager.GetString("PokemonPivotLocationPage", resourceCulture);
             }
         }
         

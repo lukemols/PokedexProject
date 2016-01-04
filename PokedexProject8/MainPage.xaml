@@ -6,6 +6,7 @@
         xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"    
         mc:Ignorable="d"
         FontFamily="{StaticResource PhoneFontFamilyNormal}"
         FontSize="{StaticResource PhoneFontSizeNormal}"
@@ -13,6 +14,15 @@
         SupportedOrientations="Portrait" Orientation="Portrait"
         shell:SystemTray.IsVisible="True">
 
+    <phone:PhoneApplicationPage.Resources>
+        <Style x:Name="ClickableTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="28"/>
+            <Setter Property="Margin" Value="20, 15, 0, 0"/>
+            <Setter Property="FontWeight" Value="Light" />
+        </Style>
+        
+    </phone:PhoneApplicationPage.Resources>
+    
     <Grid>
         <StackPanel VerticalAlignment="Top">
             <TextBlock x:Uid="PageTitle" Text="Pokédex Project W8.1" FontSize="25"/>
@@ -25,10 +35,10 @@
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageFileBlock}"/>
 
                         <TextBlock x:Uid="PivotFilePageNewFile"
-                                   FontSize="25" Margin="20, 15, 0, 0"
+                                   Style="{StaticResource ClickableTextBlockStyle}"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageNewFile}"/>
                         <TextBlock x:Uid="PivotFilePageLoadFile"
-                                   FontSize="25" Margin="20, 15, 0, 0"
+                                   Style="{StaticResource ClickableTextBlockStyle}"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageLoadFile}"/>
 
                         <TextBlock x:Uid="PivotFilePageRecentFileBlock"
@@ -51,11 +61,13 @@
                                    TextWrapping="Wrap"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotSearchPageWelcome}"/>
                         
-                        <TextBlock x:Uid="PivotSearchPagePokedex" FontSize="25"
+                        <TextBlock x:Uid="PivotSearchPagePokedex"
+                                   Style="{StaticResource ClickableTextBlockStyle}"
                                    Tap="TextBlock_Tap"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotSearchPagePokedex}"/>
-                        
-                        <TextBlock x:Uid="PivotSearchPageLocation" FontSize="25"
+
+                        <TextBlock x:Uid="PivotSearchPageLocation"
+                                   Style="{StaticResource ClickableTextBlockStyle}"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotSearchPageLocation}"/>
 
                     </StackPanel>
