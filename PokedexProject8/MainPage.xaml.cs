@@ -36,5 +36,16 @@ namespace PokedexProject8
             //MessageBox.Show(s);
             NavigationService.Navigate(new Uri("/PokemonListPage.xaml", UriKind.Relative));
         }
+
+        private void PivotFilePageNewFile_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            Pokemon p = ProgramManager.PokemonList[0];
+            if (p.Form == null)
+                MessageBox.Show("Null");
+            else if (p.Form == "")
+                MessageBox.Show("Empty");
+            else
+                MessageBox.Show(p.Form);
+        }
     }
 }

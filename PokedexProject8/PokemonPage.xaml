@@ -14,12 +14,74 @@
     mc:Ignorable="d"
     shell:SystemTray.IsVisible="True">
 
+    <!-- Risorse della pagina -->
     <phone:PhoneApplicationPage.Resources>
+        <!-- Stile dei TextBlock del numero del Pokémon, del peso e dell'altezza -->
         <Style x:Name="InfoTextBlockStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="22"/>
             <Setter Property="Margin" Value="12, 10, 0, 0"/>
             <Setter Property="FontWeight" Value="Light" />
         </Style>
+
+        <!-- Template delle evoluzioni -->
+        <DataTemplate x:Key="EvolutionItemTemplate">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*" MaxWidth="200"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Rectangle x:Name="PreEvoImage" Height="75" Width="75">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Red" />
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Rectangle x:Name="PostEvoImage" Height="75" Width="75" Grid.Column="2">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Green" />
+                    </Rectangle.Fill>
+                </Rectangle>
+                <TextBlock x:Name="PreEvoName" Grid.Row="1" Text="{Binding Path=Lower}" />
+                <TextBlock x:Name="PostEvoName" Grid.Row="1" Grid.Column="2" Text="{Binding Path=Higher}" />
+                <TextBlock x:Name="EvoMode" Grid.Column="1" TextWrapping="Wrap" Text="{Binding Path=Trigger}" />
+            </Grid>
+
+        </DataTemplate>
+        
+        <!-- Template dei luoghi -->
+        <DataTemplate x:Key="LocationItemTemplate">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*" MaxWidth="200"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Rectangle x:Name="PreEvoImage" Height="75" Width="75">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Red" />
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Rectangle x:Name="PostEvoImage" Height="75" Width="75" Grid.Column="2">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Green" />
+                    </Rectangle.Fill>
+                </Rectangle>
+                <TextBlock x:Name="PreEvoName" Grid.Row="1" Text="{Binding Path=Lower}" />
+                <TextBlock x:Name="PostEvoName" Grid.Row="1" Grid.Column="2" Text="{Binding Path=Higher}" />
+                <TextBlock x:Name="EvoMode" Grid.Column="1" TextWrapping="Wrap" Text="{Binding Path=Trigger}" />
+            </Grid>
+
+        </DataTemplate>
     </phone:PhoneApplicationPage.Resources>
     
     <!--LayoutRoot is the root grid where all page content is placed-->
@@ -57,8 +119,15 @@
 
                         <StackPanel Orientation="Vertical" Grid.Column="1">
                             <TextBlock x:Name="Number" Text="#000" Style="{StaticResource InfoTextBlockStyle}"/>
-                            <TextBlock x:Name="Weight" Text="1 kg" Style="{StaticResource InfoTextBlockStyle}"/>
-                            <TextBlock x:Name="Height" Text="1 m" Style="{StaticResource InfoTextBlockStyle}"/>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Name="Weight" Text="1 kg" Style="{StaticResource InfoTextBlockStyle}"/>
+                                <TextBlock x:Name="Height" Text="1 m" Style="{StaticResource InfoTextBlockStyle}"/>
+                            </StackPanel>
+                            <toolkit:WrapPanel Orientation="Horizontal">
+                                <Button x:Name="Type1" Content="Type1"/>
+                                <Button x:Name="Type2" Content="Type2"/>
+                            </toolkit:WrapPanel>
+
                         </StackPanel>
 
                         <StackPanel Orientation="Vertical" Grid.Row="1" Grid.ColumnSpan="2">
@@ -89,6 +158,17 @@
                 <!-- Pagina sulle evoluzioni del Pokémon -->
                 <phone:PivotItem x:Uid="PokemonPivotEvoPage"
                      Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PokemonPivotEvoPage}">
+                    <ScrollViewer>
+
+                        <phone:LongListSelector Height="Auto"
+                        Name="EvolutionListBox"
+                        Background="Transparent"
+                        ItemTemplate="{StaticResource EvolutionItemTemplate}"
+                        ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        </phone:LongListSelector>
+
+
+                    </ScrollViewer>
                 </phone:PivotItem>
 
                 <!-- Pagina sui luoghi del Pokémon -->

@@ -22,11 +22,14 @@
         </Style>
         
     </phone:PhoneApplicationPage.Resources>
-    
+
     <Grid>
-        <StackPanel VerticalAlignment="Top">
-            <TextBlock x:Uid="PageTitle" Text="Pokédex Project W8.1" FontSize="25"/>
-            <phone:Pivot>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock x:Uid="PageTitle" Text="Pokédex Project W8.1" FontSize="25" Grid.Row="0"/>
+            <phone:Pivot Grid.Row="1">
                 <phone:PivotItem x:Uid="PivotFilePage"
                      Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePage}">
                     <StackPanel VerticalAlignment="Top">
@@ -36,7 +39,8 @@
 
                         <TextBlock x:Uid="PivotFilePageNewFile"
                                    Style="{StaticResource ClickableTextBlockStyle}"
-                     Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageNewFile}"/>
+                     Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageNewFile}"
+                                   Tap="PivotFilePageNewFile_Tap"/>
                         <TextBlock x:Uid="PivotFilePageLoadFile"
                                    Style="{StaticResource ClickableTextBlockStyle}"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotFilePageLoadFile}"/>
@@ -56,11 +60,11 @@
                 <phone:PivotItem x:Uid="PivotSearchPage"
                      Header="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotSearchPage}">
                     <StackPanel VerticalAlignment="Top">
-                        
+
                         <TextBlock x:Uid="PivotSearchPageWelcome" FontSize="22"
                                    TextWrapping="Wrap"
                      Text="{Binding Source={StaticResource LocalizedStrings}, Path=LocalizedResources.PivotSearchPageWelcome}"/>
-                        
+
                         <TextBlock x:Uid="PivotSearchPagePokedex"
                                    Style="{StaticResource ClickableTextBlockStyle}"
                                    Tap="TextBlock_Tap"
@@ -76,9 +80,6 @@
                 <phone:PivotItem x:Uid="PivotInfoPage" Header="Info">
                 </phone:PivotItem>
             </phone:Pivot>
-
-
-        </StackPanel>
 
 
     </Grid>

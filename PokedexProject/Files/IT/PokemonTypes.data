@@ -592,7 +592,7 @@
 #type|476||Roccia|Acciaio|4|
 #type|477||Spettro||4|
 #type|478||Ghiaccio|Spettro|4|
-#type|479|Normale|Elettro|Spettro|4|
+#type|479||Elettro|Spettro|4|
 #type|479|Calore|Elettro|Spettro|4|
 #type|479|Lavaggio|Elettro|Spettro|4|
 #type|479|Gelo|Elettro|Spettro|4|
