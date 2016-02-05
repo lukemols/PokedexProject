@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PokedexProject8.PokemonListPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <DataTemplate x:Key="PokemonItemTemplate">
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal">
+                <Rectangle Height="75" Width="75">
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="Red" />
+                    </Rectangle.Fill>
+                </Rectangle>
+                <TextBlock Text="{Binding Path=Number}"
+                           FontSize="24" Margin="10, 0, 0, 0"/>
+                <TextBlock Text="{Binding Path=Name}"
+                           FontSize="24" Margin="10, 0, 0, 0" />
+
+            </StackPanel>
+        </DataTemplate>
+    </phone:PhoneApplicationPage.Resources>
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" VerticalAlignment="Top">
+            <TextBlock x:Uid="PageTitle" Text="Pokédex Project W8.1" 
+                       FontSize="25" Margin="15, 15, 0, 0"/>
+            <TextBlock x:Uid="PageSubTitle" Text="Lista Pokémon" 
+                       FontSize="48" Margin="15, 15, 0, 0"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1">
+
+            <phone:LongListSelector Height="Auto"
+                        Name="PokemonListBox"
+                        Background="Transparent"
+                        ItemTemplate="{StaticResource PokemonItemTemplate}"
+                    ScrollViewer.VerticalScrollBarVisibility="Auto"
+               SelectionChanged="PokemonListBox_SelectionChanged">
+            </phone:LongListSelector>
+            
+            
+        </ScrollViewer>
+    </Grid>
+
+</phone:PhoneApplicationPage>

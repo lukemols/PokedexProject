@@ -93,7 +93,7 @@ namespace PokedexProject
             int last = 0;
             foreach(Pokemon p in PokemonClassManager.PokemonList)
             {
-                if (p.Number != last && p.Number < pokeLimit)
+                if (p.Number != last && p.Number <= pokeLimit)
                 {
                     pokemonList.Add(p);
                     last = p.Number;
