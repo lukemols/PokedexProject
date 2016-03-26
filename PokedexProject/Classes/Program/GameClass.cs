@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PokedexProject
 {
-    static class GameClass
+    public class GameClass
     {
         public enum Game
         {
@@ -17,7 +17,7 @@ namespace PokedexProject
             NOTDEFINED
         };
 
-        static string[] italianGames = { "Rosso", "Blu", "Giallo",
+        string[] italianGames = { "Rosso", "Blu", "Giallo",
                                         "Oro", "Argento", "Cristallo",
                                         "Rubino", "Zaffiro", "Smeraldo", "RF", "VF",
                                         "Diamante", "Perla", "Platino", "HG", "SS",
@@ -25,7 +25,7 @@ namespace PokedexProject
                                         "X", "Y", "RO", "ZA",
                                         "NotDefined"};
 
-        static string[] englishGames = { "Red", "Blue", "Yellow",
+        string[] englishGames = { "Red", "Blue", "Yellow",
                                         "Gold", "Silver", "Cristal",
                                         "Ruby", "Sapphire", "Emerald", "FR", "LG",
                                         "Diamond", "Pearl", "Platinum", "HG", "SS",
@@ -33,17 +33,22 @@ namespace PokedexProject
                                         "X", "Y", "OR", "AS",
                                         "NotDefined"};
 
+        static private GameClass instance;
+        static public GameClass Instance { get { if (instance == null) instance = new GameClass(); return instance; } }
+
+        private GameClass() { }
+
         /// <summary>
         /// Ritorna la stringa del nome del gioco a partire dall'enum del gioco
         /// </summary>
         /// <param name="game"></param>
         /// <returns></returns>
-        static public string GetGameName(Game game)
+        public string GetGameName(Game game)
         {
             return italianGames[(int)game];
         }
 
-        static public Game GetGameFromString(string str)
+        public Game GetGameFromString(string str)
         {
             for (int i = 0; i < italianGames.Length; i++)
                 if (italianGames[i] == str)

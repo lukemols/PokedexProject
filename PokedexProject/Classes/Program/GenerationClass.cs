@@ -4,13 +4,13 @@ using System.Text;
 
 namespace PokedexProject
 {
-    static class GenerationClass
+    public class GenerationClass
     {
-        static int[] generationLimit = { 0, 151, 251, 386, 493, 649, 721 };
-        static public int[] GenerationLimit { get { return generationLimit; } }
+        int[] generationLimit = { 0, 151, 251, 386, 493, 649, 721 };
+        public int[] GenerationLimit { get { return generationLimit; } }
 
-        static int actualGeneration = 6;
-        static public int ActualGeneration
+        int actualGeneration = 6;
+        public int ActualGeneration
         {
             get
             {
@@ -22,5 +22,11 @@ namespace PokedexProject
                     actualGeneration = value;
             }
         }
+
+        //Istanza del singleton
+        static private GenerationClass instance;
+        static public GenerationClass Instance { get { if (instance == null) instance = new GenerationClass(); return instance; } }
+
+        private GenerationClass() { }
     }
 }

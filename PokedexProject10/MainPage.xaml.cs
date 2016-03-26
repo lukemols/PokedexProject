@@ -26,8 +26,9 @@ namespace PokedexProject10
         public MainPage()
         {
             this.InitializeComponent();
-            
-            ProgramManager.Initialize();
+
+            ProgramManager pm = ProgramManager.Instance;
+            pm.Initialize();
         }
 
         private void TextBlock_Tapped(object sender, TappedRoutedEventArgs e)

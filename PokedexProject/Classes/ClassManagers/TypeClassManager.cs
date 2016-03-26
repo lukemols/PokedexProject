@@ -6,16 +6,25 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    static class TypeClassManager
+    public class TypeClassManager
     {
-        private static List<Type> listaTipo;
-        static public List<Type> ListaTipo { get { return listaTipo; } }
-        
+        private List<Type> listaTipo;
+        public List<Type> ListaTipo { get { return listaTipo; } }
+
+        //Istanza del singleton
+        static private TypeClassManager instance;
+        static public TypeClassManager Instance { get { if (instance == null) instance = new TypeClassManager(); return instance; } }
+
+        /// <summary>
+        /// Costruttore privato
+        /// </summary>
+        private TypeClassManager() { }
+
         /// <summary>
         /// Metodo che crea la lista dei tipi a partire da una lista di stringhe
         /// </summary>
         /// <param name="lines">Lista di stringhe contenenti i tipi</param>
-        static public void GetTipoList(List<string> lines)
+        public void GetTipoList(List<string> lines)
         {
             listaTipo = new List<Type>();
             
@@ -37,7 +46,7 @@ namespace PokedexProject
         /// </summary>
         /// <param name="index">Indice del Pokémon</param>
         /// <returns>Lista dei tipi</returns>
-        static public List<Type> GetPokeTypes(int index)
+        public List<Type> GetPokeTypes(int index)
         {
             List<Type> types = new List<Type>();
             foreach (Type t in listaTipo)

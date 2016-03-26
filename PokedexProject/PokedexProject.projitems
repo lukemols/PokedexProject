@@ -2215,9 +2215,24 @@
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\668.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\669-A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\669-B.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\669-Bi.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\669-G.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\669.png" />
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\67.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\670-A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\670-B.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\670-Bi.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\670-G.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\670.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\671-A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\671-B.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\671-Bi.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\671-G.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\671.png" />
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\672.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -2406,6 +2421,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\720.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\721.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\73.png">
@@ -2854,51 +2872,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\668.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\669-A.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\669-B.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\669-Bi.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\669-G.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\669.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\670-A.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\670-B.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\670-Bi.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\670-G.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\670.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\671-A.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\671-B.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\671-Bi.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\671-G.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\671.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="$(MSBuildThisFileDirectory)Sprites\6Gen\xy\female\678.png">

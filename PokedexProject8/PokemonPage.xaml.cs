@@ -18,6 +18,7 @@ namespace PokedexProject8
         Pokemon ShowedPokemon;
         List<Pokemon> pokemonForms;
         List<Evolution> pokemonEvolutions;
+        List<PokemonPlace> pokemonLocations;
 
         public PokemonPage()
         {
@@ -43,11 +44,11 @@ namespace PokedexProject8
             Height.Text = ShowedPokemon.Height + " m";
 
             // Ottieni le forme del Pokémon
-            pokemonForms = PokemonClassManager.GetPokeForms(ShowedPokemon.Number);
+            pokemonForms = PokemonClassManager.Instance.GetPokeForms(ShowedPokemon.Number);
             FormListPicker.ItemsSource = pokemonForms;
 
             // Ottieni i tipi per le varie forme
-            List<PokedexProject.Type> types = TypeClassManager.GetPokeTypes(ShowedPokemon.Number);
+            List<PokedexProject.Type> types = TypeClassManager.Instance.GetPokeTypes(ShowedPokemon.Number);
             foreach(PokedexProject.Type t in types)
             {
                 if(t.Form == ShowedPokemon.Form)
@@ -63,9 +64,10 @@ namespace PokedexProject8
                 }
             }
 
-            pokemonEvolutions = EvolutionClassManager.GetEvos(ShowedPokemon.Number);
+            pokemonEvolutions = EvolutionClassManager.Instance.GetEvos(ShowedPokemon.Number);
             EvolutionListBox.ItemsSource = pokemonEvolutions;
 
+            CreateLocationList();
         }
 
         private string GetImagePath()
@@ -78,6 +80,22 @@ namespace PokedexProject8
                 return @"Sprites/6Gen/xy/" + ShowedPokemon.Number.ToString() + "-M.png";
 
             return @"Sprites/6Gen/xy/" + ShowedPokemon.Number.ToString() + ".png";
+        }
+
+        private void CreateLocationList()
+        {
+            pokemonLocations = PokemonPlaceClassManager.Instance.GetPlacesOfPokemon(ShowedPokemon.Number);
+            List<Group<PokemonPlace>> places = GetItemGroups(pokemonLocations, x => x.Region);
+            LocationListBox.ItemsSource = places;
+        }
+
+        private List<Group<T>> GetItemGroups<T>(IEnumerable<T> itemList, Func<T, string> getKeyFunc)
+        {
+            IEnumerable<Group<T>> groupList = from item in itemList
+                                              group item by getKeyFunc(item) into g
+                                              orderby g.Key
+                                              select new Group<T>(g.Key, g);
+            return groupList.ToList();
         }
 
         private void FormListPicker_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -95,7 +113,7 @@ namespace PokedexProject8
             if (NavigationContext.QueryString.ContainsKey("id"))
             {
                 int id = int.Parse(NavigationContext.QueryString["id"]);
-                ShowedPokemon = PokemonClassManager.GetPokemon(id);
+                ShowedPokemon = PokemonClassManager.Instance.GetPokemon(id);
                 if(ShowedPokemon != null)
                 {
                     SetPokemonInfo();

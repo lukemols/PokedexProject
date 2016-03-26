@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    class Location
+    public class Location
     {
         string region;
         public string Region { get { return region; } }

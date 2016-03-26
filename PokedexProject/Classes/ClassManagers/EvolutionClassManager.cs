@@ -6,17 +6,26 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    static class EvolutionClassManager
+    public class EvolutionClassManager
     {
-        private static List<Evolution> listaEvo;
+        private List<Evolution> listaEvo;
 
-        public static List<Evolution> ListaEvo { get { return listaEvo; } }
+        public List<Evolution> ListaEvo { get { return listaEvo; } }
+
+        //Istanza del singleton
+        static private EvolutionClassManager instance;
+        static public EvolutionClassManager Instance { get { if (instance == null) instance = new EvolutionClassManager(); return instance; } }
+
+        /// <summary>
+        /// Costruttore privato
+        /// </summary>
+        private EvolutionClassManager() { }
 
         /// <summary>
         /// Metodo che carica tutte le evoluzioni a partire da una lista di stringhe
         /// </summary>
         /// <param name="lines">Lista di stringhe contenenti le evoluzioni</param>
-        public static void GetEvoList(List<string> lines)
+        public void GetEvoList(List<string> lines)
         {
             listaEvo = new List<Evolution>();
 
@@ -38,7 +47,7 @@ namespace PokedexProject
         /// </summary>
         /// <param name="index">Numero del Pokémon</param>
         /// <returns>Lista di evoluzioni</returns>
-        public static List<Evolution> GetEvos(int index)
+        public List<Evolution> GetEvos(int index)
         {
             List<Evolution> evos = new List<Evolution>();
             Evolution pre = new Evolution();
@@ -90,10 +99,11 @@ namespace PokedexProject
                     }
                 }
             }
+            GenerationClass gen = GenerationClass.Instance;
             for (int i = evos.Count - 1; i >= 0; i--)
             {//Se è una evoluzione futura rimuovila
-                if (evos[i].Lower > GenerationClass.GenerationLimit[GenerationClass.ActualGeneration]
-                    || evos[i].Higher > GenerationClass.GenerationLimit[GenerationClass.ActualGeneration])
+                if (evos[i].Lower > gen.GenerationLimit[gen.ActualGeneration]
+                    || evos[i].Higher > gen.GenerationLimit[gen.ActualGeneration])
                     evos.RemoveAt(i);
             }
             return evos;

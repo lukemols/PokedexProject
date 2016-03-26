@@ -16,7 +16,7 @@ namespace PokedexProject8
         public PokemonListPage()
         {
             InitializeComponent();
-            PokemonListBox.ItemsSource = ProgramManager.PokemonList;
+            PokemonListBox.ItemsSource = ProgramManager.Instance.PokemonList;
         }
 
         private void PokemonListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)

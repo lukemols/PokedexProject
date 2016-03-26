@@ -19,8 +19,8 @@ namespace PokedexProject8
         public MainPage()
         {
             InitializeComponent();
-
-            ProgramManager.Initialize();
+            ProgramManager pm = ProgramManager.Instance;
+            pm.Initialize();
         }
 
         private void TextBlock_Tap(object sender, System.Windows.Input.GestureEventArgs e)
@@ -39,13 +39,7 @@ namespace PokedexProject8
 
         private void PivotFilePageNewFile_Tap(object sender, System.Windows.Input.GestureEventArgs e)
         {
-            Pokemon p = ProgramManager.PokemonList[0];
-            if (p.Form == null)
-                MessageBox.Show("Null");
-            else if (p.Form == "")
-                MessageBox.Show("Empty");
-            else
-                MessageBox.Show(p.Form);
+            
         }
     }
 }

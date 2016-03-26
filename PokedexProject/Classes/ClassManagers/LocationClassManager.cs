@@ -6,16 +6,26 @@ using System.Threading.Tasks;
 
 namespace PokedexProject
 {
-    static class LocationClassManager
+    public class LocationClassManager
     {
-        private static List<Location> listaLocation;
-        public static List<Location> ListaLocation { get { return listaLocation; } }
+        private List<Location> listaLocation;
+        public List<Location> ListaLocation { get { return listaLocation; } }
+
+
+        //Istanza del singleton
+        static private LocationClassManager instance;
+        static public LocationClassManager Instance { get { if (instance == null) instance = new LocationClassManager(); return instance; } }
+
+        /// <summary>
+        /// Costruttore privato
+        /// </summary>
+        private LocationClassManager() { }
 
         /// <summary>
         /// Metodo che carica la lista dei luoghi a partire da una lista di stringhe formattata
         /// </summary>
         /// <param name="lines">Lista di stringhe contenenti i luoghi</param>
-        public static void GetLocationList(List<string> lines)
+        public void GetLocationList(List<string> lines)
         {
             listaLocation = new List<Location>();
             
@@ -37,7 +47,7 @@ namespace PokedexProject
         /// </summary>
         /// <param name="region">Regione da cercare</param>
         /// <returns>Lista dei luoghi</returns>
-        public static List<Location> GetRegionalLocation(string region)
+        public List<Location> GetRegionalLocation(string region)
         {
             List<Location> locs = new List<Location>();
             foreach (Location l in listaLocation)

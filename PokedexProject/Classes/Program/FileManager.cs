@@ -6,9 +6,16 @@ using PokedexProject;
 
 namespace PokedexProject
 {
-    static class FileManager
+    class FileManager
     {
-        static public async Task<string[]> ReadResourceFiles(string filePath)
+        //Istanza del singleton
+        static private FileManager instance;
+        static public FileManager Instance { get { if (instance == null) instance = new FileManager(); return instance; } }
+
+        private FileManager() { }
+
+
+        public async Task<string[]> ReadResourceFiles(string filePath)
         {
             Windows.Storage.StorageFile sFile = await Windows.Storage.StorageFile.GetFileFromPathAsync(filePath);
             
@@ -18,12 +25,13 @@ namespace PokedexProject
             return lines;           
         }
 
-        static public async Task<List<Dex.PokeState>> GetDexAsync(string path)
+        public async Task<List<Dex.PokeState>> GetDexAsync(string path)
         {
             if (!File.Exists(path))
                 throw new FileNotFoundException();
 
             List<Dex.PokeState> states = new List<Dex.PokeState>();
+            Dex dex = Dex.Instance;
 
             Windows.Storage.StorageFile sFile = await Windows.Storage.StorageFile.GetFileFromPathAsync(path);
 
@@ -37,8 +45,8 @@ namespace PokedexProject
                 if(line.Contains("#INFO"))
                 {
                     string[] infos = line.Split('|');
-                    Dex.Generation = System.Convert.ToInt32(infos[1]);
-                    Dex.Game = infos[2];
+                    dex.Generation = System.Convert.ToInt32(infos[1]);
+                    dex.Game = infos[2];
                     continue;
                 }
 
@@ -51,13 +59,13 @@ namespace PokedexProject
                 {
                     string[] l = line.Split('|');
                     int ao = System.Convert.ToInt32(l[1]);
-                    Dex.AO = ao;
+                    dex.AO = ao;
                 }
 
                 else if (line.Contains("PLAYER"))
                 {
                     string[] l = line.Split('|');
-                    Dex.PlayerName = l[1];                  
+                    dex.PlayerName = l[1];                  
                 }
 
                 else if (line.Contains("#Pk"))
